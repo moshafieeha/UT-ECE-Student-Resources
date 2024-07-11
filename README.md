@@ -1,11 +1,20 @@
 # UT-ECE-Student-Resources
-At the University of Tehran, we are computer engineering students committed to sharing and curating valuable resources from our studies. Our aim is to support future students and encourage collaboration within our academic community.
-*If you know another valid repo can be added to list, feel free to fork or contact us at [email](mailto:m.shafieeha@gmail.com).*
+
+🎓 **Welcome to the University of Tehran's Computer Engineering Student Resources Repository!** 🎓
+
+We are passionate computer engineering students dedicated to sharing and curating valuable resources from our studies. Our goal is to support future students and foster a collaborative academic community. This repository includes comprehensive resources for various courses and projects, all aimed at enhancing your learning experience.
+
+✨ **Special Thanks to Our Contributors!** ✨  
+We extend our heartfelt gratitude to all students who have shared their incredible work. Your contributions help create a richer, more accessible educational environment for everyone. 🙏
+
+💡 **Have a Resource to Share?**  
+If you know another valid repository that can be added to this list, feel free to fork or contact us at [email](mailto:m.shafieeha@gmail.com). Let's continue to grow this repository together! 🌱  
+<br>
 
 <br>
 
 ## Table of Contents
-1. [Graduate Courses](#graduate-courses)
+[Graduate Courses](#graduate-courses)
     1. [Trustworthy AI - Dr. Mostafa Tavassolipour](#1-trustworthy-ai---dr-mostafa-tavassolipour)
     2. [NLP - Dr. Hesham Faili](#2-nlp---dr-hesham-faili)
     3. [Data Mining - Dr. Azade Shakeri](#3-data-mining---dr-azade-shakeri)
@@ -19,7 +28,7 @@ At the University of Tehran, we are computer engineering students committed to s
     11. [Deep Generative Model - Dr. Mostafa Tavassolipour](#11-deep-generative-model---dr-mostafa-tavassolipour)
     12. [Neural Networks and Deep Learning - Dr. Ahmad Kalhor](#12-neural-networks-and-deep-learning---dr-ahmad-kalhor)
     13. [Cognitive Science - Dr. Mostafa Tavassolipour](#13-cognitive-science---dr-mostafa-tavassolipour)
-2. [Undergraduate Courses](#undergraduate-courses)
+[Undergraduate Courses](#undergraduate-courses)
     1. [AI - Dr. Fadaei](#1-ai---dr-fadaei)
     2. [Network Lab - Dr. Ahmad Khonsari](#2-network-lab---dr-ahmad-khonsari)
     3. [Computer Architecture Lab](#3-computer-architecture-lab)
@@ -28,7 +37,7 @@ At the University of Tehran, we are computer engineering students committed to s
     6. [Computer Architecture](#6-computer-architecture)
     7. [Software Testing](#7-software-testing)
     8. [Other](#other)
-3. [Assets](#assets)
+[Assets](#assets)
 
 <br>
 
