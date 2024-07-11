@@ -4,18 +4,17 @@
 
 We are passionate computer engineering students dedicated to sharing and curating valuable resources from our studies. Our goal is to support future students and foster a collaborative academic community. This repository includes comprehensive resources for various courses and projects, all aimed at enhancing your learning experience.
 
-✨ **Special Thanks to Our Contributors!** ✨  
+#### ✨ **Special Thanks to Our Contributors!** ✨  
 We extend our heartfelt gratitude to all students who have shared their incredible work. Your contributions help create a richer, more accessible educational environment for everyone. 🙏
 
-## 🤝 **Why Share Your Code?**  
+#### 🤝 **Why Share Your Code?**  
 Sharing your code is a win-win! Here's why:
 
-- **Enhance Your Learning**: By sharing your work, you engage in a deeper level of learning. Teaching others and explaining your code can reinforce your understanding and uncover new insights.
 - **Build Your Portfolio**: Open-sourcing your projects adds valuable experience to your portfolio. It demonstrates your skills and commitment to potential employers or academic opportunities.
 - **Gain Recognition**: Get credit for your hard work! Sharing your contributions allows you to establish a presence in the academic and professional community. You can showcase your work on your profile and use it as a reference.
 - **Foster Collaboration**: Collaboration leads to innovation. By making your code available, you invite others to build upon your work, leading to improvements, new ideas, and better solutions.
 
-💡 **Have a Resource to Share?**  
+#### 💡 **Have a Resource to Share?**  
 If you know another valid repository that can be added to this list, feel free to fork or contact us at [email](mailto:m.shafieeha@gmail.com). Let's continue to grow this repository together! 🌱
 
 <br>
