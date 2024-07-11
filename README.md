@@ -14,9 +14,9 @@ We extend our heartfelt gratitude to all students who have shared their incredib
 🤝 **Why Share Your Code?**  
 Sharing your code is a win-win! Here's why:
 
-- **Build Your Portfolio**: Open-sourcing your projects adds valuable experience to your portfolio. It demonstrates your skills and commitment to potential employers or academic opportunities.
-- **Gain Recognition**: Get credit for your hard work! Sharing your contributions allows you to establish a presence in the academic and professional community. You can showcase your work on your profile and use it as a reference.
-- **Foster Collaboration**: Collaboration leads to innovation. By making your code available, you invite others to build upon your work, leading to improvements, new ideas, and better solutions.
+- **Build Your Portfolio**: Open-sourcing your projects demonstrates your skills and commitment to potential employers/academic opportunities.
+- **Gain Recognition**: Sharing your contributions allows you to establish a presence in the professional community. You can showcase your work on your profile and use it as a reference.
+- **Foster Collaboration**: By making your code available, you invite others to build upon your work, leading to improvements, new ideas, and better solutions.
 <br>
 
 💡 **Have a Resource to Share?**  
@@ -38,7 +38,7 @@ If you know another valid repository that can be added to this list, feel free t
     10. [Statistical Inference - Dr. Behnam Bahrak](#10-statistical-inference---dr-behnam-bahrak)
     11. [Deep Generative Model - Dr. Mostafa Tavassolipour](#11-deep-generative-model---dr-mostafa-tavassolipour)
     12. [Neural Networks and Deep Learning - Dr. Ahmad Kalhor](#12-neural-networks-and-deep-learning---dr-ahmad-kalhor)
-    13. [Cognitive Science - Dr. Mostafa Tavassolipour](#13-cognitive-science)
+    13. [Cognitive Science](#13-cognitive-science)
 2. [Undergraduate Courses](#undergraduate-courses)
     1. [AI - Dr. Fadaei](#1-ai---dr-fadaei)
     2. [Network Lab - Dr. Ahmad Khonsari](#2-network-lab---dr-ahmad-khonsari)
