@@ -7,36 +7,43 @@ We are passionate computer engineering students dedicated to sharing and curatin
 ✨ **Special Thanks to Our Contributors!** ✨  
 We extend our heartfelt gratitude to all students who have shared their incredible work. Your contributions help create a richer, more accessible educational environment for everyone. 🙏
 
+## 🤝 **Why Share Your Code?**  
+Sharing your code is a win-win! Here's why:
+
+- **Enhance Your Learning**: By sharing your work, you engage in a deeper level of learning. Teaching others and explaining your code can reinforce your understanding and uncover new insights.
+- **Build Your Portfolio**: Open-sourcing your projects adds valuable experience to your portfolio. It demonstrates your skills and commitment to potential employers or academic opportunities.
+- **Gain Recognition**: Get credit for your hard work! Sharing your contributions allows you to establish a presence in the academic and professional community. You can showcase your work on your profile and use it as a reference.
+- **Foster Collaboration**: Collaboration leads to innovation. By making your code available, you invite others to build upon your work, leading to improvements, new ideas, and better solutions.
+
 💡 **Have a Resource to Share?**  
-If you know another valid repository that can be added to this list, feel free to fork or contact us at [email](mailto:m.shafieeha@gmail.com). Let's continue to grow this repository together! 🌱  
-<br>
+If you know another valid repository that can be added to this list, feel free to fork or contact us at [email](mailto:m.shafieeha@gmail.com). Let's continue to grow this repository together! 🌱
 
 <br>
 
 ## Table of Contents
 1. [Graduate Courses](#graduate-courses)
-    1. [Trustworthy AI - Dr. Mostafa Tavassolipour](#1-trustworthy-ai---dr-mostafa-tavassolipour)
-    2. [NLP - Dr. Hesham Faili](#2-nlp---dr-hesham-faili)
-    3. [Data Mining - Dr. Azade Shakeri](#3-data-mining---dr-azade-shakeri)
-    4. [Information Retrieval - Dr. Azade Shakeri](#4-information-retrieval---dr-azade-shakeri)
-    5. [Social Network - Dr. Masoud Asadpour](#5-social-network---dr-masoud-asadpour)
-    6. [Advanced Deep Learning - Dr. Ahmad Kalhor](#6-advanced-deep-learning---dr-ahmad-kalhor)
-    7. [Reinforcement Learning - Dr. Majid Nili Ahmad Abadi](#7-reinforcement-learning---dr-majid-nili-ahmad-abadi)
-    8. [Machine Learning - Dr. A. Dehaqani, Dr. Mostafa Tavassolipour](#8-machine-learning---dr-a-dehaqani-dr-mostafa-tavassolipour)
-    9. [Deep Learning (with applications in vision and voice) - Dr. Reshad Hosseini](#9-deep-learning-with-applications-in-vision-and-voice---dr-reshad-hosseini)
-    10. [Statistical Inference - Dr. Behnam Bahrak](#10-statistical-inference---dr-behnam-bahrak)
-    11. [Deep Generative Model - Dr. Mostafa Tavassolipour](#11-deep-generative-model---dr-mostafa-tavassolipour)
-    12. [Neural Networks and Deep Learning - Dr. Ahmad Kalhor](#12-neural-networks-and-deep-learning---dr-ahmad-kalhor)
-    13. [Cognitive Science - Dr. Mostafa Tavassolipour](#13-cognitive-science---dr-mostafa-tavassolipour)
+    1.1. [Trustworthy AI - Dr. Mostafa Tavassolipour](#1-trustworthy-ai---dr-mostafa-tavassolipour)
+    1.2. [NLP - Dr. Hesham Faili](#2-nlp---dr-hesham-faili)
+    1.3. [Data Mining - Dr. Azade Shakeri](#3-data-mining---dr-azade-shakeri)
+    1.4. [Information Retrieval - Dr. Azade Shakeri](#4-information-retrieval---dr-azade-shakeri)
+    1.5. [Social Network - Dr. Masoud Asadpour](#5-social-network---dr-masoud-asadpour)
+    1.6. [Advanced Deep Learning - Dr. Ahmad Kalhor](#6-advanced-deep-learning---dr-ahmad-kalhor)
+    1.7. [Reinforcement Learning - Dr. Majid Nili Ahmad Abadi](#7-reinforcement-learning---dr-majid-nili-ahmad-abadi)
+    1.8. [Machine Learning - Dr. A. Dehaqani, Dr. Mostafa Tavassolipour](#8-machine-learning---dr-a-dehaqani-dr-mostafa-tavassolipour)
+    1.9. [Deep Learning (with applications in vision and voice) - Dr. Reshad Hosseini](#9-deep-learning-with-applications-in-vision-and-voice---dr-reshad-hosseini)
+    1.10. [Statistical Inference - Dr. Behnam Bahrak](#10-statistical-inference---dr-behnam-bahrak)
+    1.11. [Deep Generative Model - Dr. Mostafa Tavassolipour](#11-deep-generative-model---dr-mostafa-tavassolipour)
+    1.12. [Neural Networks and Deep Learning - Dr. Ahmad Kalhor](#12-neural-networks-and-deep-learning---dr-ahmad-kalhor)
+    1.13. [Cognitive Science - Dr. Mostafa Tavassolipour](#13-cognitive-science---dr-mostafa-tavassolipour)
 2. [Undergraduate Courses](#undergraduate-courses)
-    1. [AI - Dr. Fadaei](#1-ai---dr-fadaei)
-    2. [Network Lab - Dr. Ahmad Khonsari](#2-network-lab---dr-ahmad-khonsari)
-    3. [Computer Architecture Lab](#3-computer-architecture-lab)
-    4. [OS](#4-os)
-    5. [Cyber Physical Systems](#5-cyber-physical-systems)
-    6. [Computer Architecture](#6-computer-architecture)
-    7. [Software Testing](#7-software-testing)
-    8. [Other](#other)
+    2.1. [AI - Dr. Fadaei](#1-ai---dr-fadaei)
+    2.2. [Network Lab - Dr. Ahmad Khonsari](#2-network-lab---dr-ahmad-khonsari)
+    2.3. [Computer Architecture Lab](#3-computer-architecture-lab)
+    2.4. [OS](#4-os)
+    2.5. [Cyber Physical Systems](#5-cyber-physical-systems)
+    2.6. [Computer Architecture](#6-computer-architecture)
+    2.7. [Software Testing](#7-software-testing)
+    2.8. [Other](#other)
 3. [Assets](#assets)
     1. [Graphic](#graphic)
 
