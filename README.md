@@ -1,6 +1,6 @@
 # UT-ECE-Student-Resources
 
-🎓 **Welcome to the University of Tehran's Computer Engineering Student Resources Repository!** 🎓
+🎓 **Welcome to the University of Tehran's CE Student Resources Repository!** 🎓
 
 We are passionate computer engineering students dedicated to *sharing and curating valuable resources* from our studies. Our goal is to support future students and foster a collaborative academic community.
 <br>
