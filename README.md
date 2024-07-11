@@ -2,12 +2,12 @@
 
 🎓 **Welcome to the University of Tehran's Computer Engineering Student Resources Repository!** 🎓
 
-We are passionate computer engineering students dedicated to sharing and curating valuable resources from our studies. Our goal is to support future students and foster a collaborative academic community. This repository includes comprehensive resources for various courses and projects, all aimed at enhancing your learning experience.
+We are passionate computer engineering students dedicated to *sharing and curating valuable resources* from our studies. Our goal is to support future students and foster a collaborative academic community.
 <br>
 <br>
 
-✨ **Special Thanks to Our Contributors!** ✨  
-We extend our heartfelt gratitude to all students who have shared their incredible work. Your contributions help create a richer, more accessible educational environment for everyone. 🙏
+✨ **Special Thanks to the Contributors!** ✨  
+We extend our heartfelt gratitude to all students who have shared their incredible work. Your contributions help create a richer, more accessible education for everyone. 🙏
 <br>
 <br>
 
@@ -15,8 +15,8 @@ We extend our heartfelt gratitude to all students who have shared their incredib
 Sharing your code is a win-win! Here's why:
 
 - **Build Your Portfolio**: Open-sourcing your projects demonstrates your skills and commitment to potential employers/academic opportunities.
-- **Gain Recognition**: Sharing your contributions allows you to establish a presence in the professional community. You can showcase your work on your profile and use it as a reference.
-- **Foster Collaboration**: By making your code available, you invite others to build upon your work, leading to improvements, new ideas, and better solutions.
+- **Gain Recognition**: Sharing your works allows you to establish a presence in your community. *You can showcase your work on your profile and use it as a reference.*
+- **Foster Collaboration**: You can invite others to build upon your work, leading to improvements, new ideas, and better solutions.
 <br>
 
 💡 **Have a Resource to Share?**  
