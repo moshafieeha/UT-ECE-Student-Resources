@@ -2,7 +2,38 @@
 At the University of Tehran, we are computer engineering students committed to sharing and curating valuable resources from our studies. Our aim is to support future students and encourage collaboration within our academic community.
 *If you know another valid repo can be added to list, feel free to fork or contact us at [email](mailto:m.shafieeha@gmail.com).*
 
-## Computer - grad
+<br>
+
+## Table of Contents
+1. [Graduate Courses](#graduate-courses)
+    1. [Trustworthy AI - Dr. Mostafa Tavassolipour](#1-trustworthy-ai---dr-mostafa-tavassolipour)
+    2. [NLP - Dr. Hesham Faili](#2-nlp---dr-hesham-faili)
+    3. [Data Mining - Dr. Azade Shakeri](#3-data-mining---dr-azade-shakeri)
+    4. [Information Retrieval - Dr. Azade Shakeri](#4-information-retrieval---dr-azade-shakeri)
+    5. [Social Network - Dr. Masoud Asadpour](#5-social-network---dr-masoud-asadpour)
+    6. [Advanced Deep Learning - Dr. Ahmad Kalhor](#6-advanced-deep-learning---dr-ahmad-kalhor)
+    7. [Reinforcement Learning - Dr. Majid Nili Ahmad Abadi](#7-reinforcement-learning---dr-majid-nili-ahmad-abadi)
+    8. [Machine Learning - Dr. A. Dehaqani, Dr. Mostafa Tavassolipour](#8-machine-learning---dr-a-dehaqani-dr-mostafa-tavassolipour)
+    9. [Deep Learning (with applications in vision and voice) - Dr. Reshad Hosseini](#9-deep-learning-with-applications-in-vision-and-voice---dr-reshad-hosseini)
+    10. [Statistical Inference - Dr. Behnam Bahrak](#10-statistical-inference---dr-behnam-bahrak)
+    11. [Deep Generative Model - Dr. Mostafa Tavassolipour](#11-deep-generative-model---dr-mostafa-tavassolipour)
+    12. [Neural Networks and Deep Learning - Dr. Ahmad Kalhor](#12-neural-networks-and-deep-learning---dr-ahmad-kalhor)
+    13. [Cognitive Science - Dr. Mostafa Tavassolipour](#13-cognitive-science---dr-mostafa-tavassolipour)
+2. [Undergraduate Courses](#undergraduate-courses)
+    1. [AI - Dr. Fadaei](#1-ai---dr-fadaei)
+    2. [Network Lab - Dr. Ahmad Khonsari](#2-network-lab---dr-ahmad-khonsari)
+    3. [Computer Architecture Lab](#3-computer-architecture-lab)
+    4. [OS](#4-os)
+    5. [Cyber Physical Systems](#5-cyber-physical-systems)
+    6. [Computer Architecture](#6-computer-architecture)
+    7. [Software Testing](#7-software-testing)
+    8. [Other](#other)
+3. [Assets](#assets)
+
+<br>
+
+## Graduate Courses
+
 ### 1. Trustworthy AI - Dr. Mostafa Tavassolipour
 * [**Homeworks (2024, Spring)**](https://github.com/moshafieeha/Deep-Learning-Mini-Projects)
 * [**Homeworks (2023, Spring)**](https://github.com/m4hyarm/Trustworthy_AI_Course_Assignments)
@@ -61,7 +92,10 @@ At the University of Tehran, we are computer engineering students committed to s
 ### 13. Cognitive_Science - Dr. Mostafa Tavassolipour
 * [**Homeworks (2022, Spring)**](https://github.com/m4hyarm/Cognitive_Science_Course_Assignments)
 
-## Computer - undergrad
+<br>
+
+## Undergraduate Courses
+
 ### 1. AI - Dr.Fadaei
 * [**Homeworks (2023, Spring)**](https://github.com/AliHamzeh2002/AI-Course-Projects)
 * [**Homeworks (2023, Spring)**](https://github.com/avamirm/Artificial-Intelligence-Projects)
@@ -90,11 +124,12 @@ At the University of Tehran, we are computer engineering students committed to s
 ### Other
 * [**ACM Summer School Blockchain & Web3 (2023)**](https://github.com/UT-ACM-Student-Chapter/Blockchain-SoC-Projects)
 * [**ACM Summer School AI (2021)**](https://github.com/AmirAbaskohi/ACM-Summer-School-2021-AI)
-
+<br>
 
 ## Assets
-### Graphic
 * [**Fanni Logo**](https://github.com/hadisfr/UT-EngineeringCollege-Logo)
+* [**LaTeX Template For Theses**](https://github.com/sinamomken/tehran-thesis)
+
 
 
 
