@@ -66,8 +66,8 @@ If you know another valid repository that can be added to this list, feel free t
 * [**Homeworks (2023, Spring)**](https://github.com/m4hyarm/Trustworthy_AI_Course_Assignments) by Mahyar Maleki
 * [**Homeworks (2023, Spring)**](https://github.com/farzaneh-hatami/Trustworthy-AI) by Farzaneh Hatami
 * [**Disentangling VAE Implementation**](https://github.com/farshadsangari/disentangling-vae) by Farshad Sangari
-* [**Metric Learning Implementation**](https://github.com/farshadsangari/robust_classifier) by Pasha Barahimi
-* [**Saliency Map Implementation**](https://github.com/farshadsangari/saliency_map_prediction) by Pasha Barahimi
+* [**Metric Learning Implementation**](https://github.com/farshadsangari/robust_classifier) by Farshad Sangari
+* [**Saliency Map Implementation**](https://github.com/farshadsangari/saliency_map_prediction) by Farshad Sangari
 * [**FGSM Adversarial Attacks**](https://github.com/ahedayat/FGSM-Adversarial-Attacks)
 
 ### [2. NLP - Dr. Hesham Faili](https://nlp-ut.github.io)
