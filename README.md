@@ -88,6 +88,7 @@ If you know another valid repository that can be added to this list, feel free t
 * [**Homeworks (2022, Fall)**](https://github.com/S-razmi/social_network_assg)
 
 ### 6. Advanced Deep Learning - Dr. Ahmad Kalhor
+* [**Homeworks (2023, Fall)**](https://github.com/AlirezaMoseni/UT-Advanced-Deep-Learning-Course-Projects) by Alireza Mohseni
 * [**Homeworks (2022, Fall)**](https://github.com/farzaneh-hatami/MetricLearning) by Farzaneh Hatami
 
 ### 7. Reinforcement Learning - Dr. Majid Nili Ahmad Abadi
@@ -101,6 +102,7 @@ If you know another valid repository that can be added to this list, feel free t
 * [**Homeworks (2021, Fall)**](https://github.com/iman2693/ML-UTCS-2021) by Iman Kianian
 
 ### 9. Deep Learning (with applications in vision and voice) - Dr. Reshad Hosseini
+* [**Homeworks (2023, Fall)**](https://github.com/AlirezaMoseni/UT-NNDL-Course-Projects) by Alireza Mohseni
 * [**Homeworks (2022, Spring)**](https://github.com/m4hyarm/Deep_Learning_Course_Assignments) by Mahyar Maleki
 
 ### 10. Statistical Inference - Dr. Behnam Bahrak 
