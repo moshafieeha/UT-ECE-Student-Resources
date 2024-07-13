@@ -63,12 +63,12 @@ If you know another valid repository that can be added to this list, feel free t
 * [**Saliency Map Implementation**](https://github.com/farshadsangari/saliency_map_prediction)
 * [**FGSM Adversarial Attacks**](https://github.com/ahedayat/FGSM-Adversarial-Attacks)
 
-### 2. NLP - Dr. Hesham Faili
+### [2. NLP - Dr. Hesham Faili](https://nlp-ut.github.io)
 * [**LangGraph Workshop (2024, Spring)**](https://github.com/VavRe/ut-nlp-langgraph)
 * [**Homeworks (2023, Spring)**](https://github.com/VavRe/nlp-ut)
 * [**Homeworks (2023, Spring)**](https://github.com/fatemehnadir/Natural-Language-Processing)
 
-### 3. Data Mining - Dr. Azade Shakeri
+### [3. Data Mining - Dr. Azade Shakeri](https://dm-ut.github.io)
 * [**Homeworks (2023, Spring)**](https://github.com/VavRe/data-mining-ut)
 
 ### 4. Information Retrieavl  - Dr. Azade Shakeri
