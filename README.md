@@ -102,8 +102,8 @@ If you know another valid repository that can be added to this list, feel free t
 
 ### 11. Deep Generative Model - Dr. Mostafa Tavassolipour
 * [**Homeworks (2023, Fall)**](https://github.com/fatemehnadir/Deep-Generative-Model)
-* [**Homeworks (2023, Fall)**](https://github.com/niiiikou/DeepGenerativeModels)
 * [**Homeworks (2023, Fall)**](https://github.com/Arhosseini77/dgm_course_2023)
+* [**Homeworks (2022, Fall)**](https://github.com/niiiikou/DeepGenerativeModels)
 
 ### 12. Neural Networks and Deep Learning - Dr. Ahmad Kalhor
 * [**Homeworks (2023, Fall)**](https://github.com/Hadi-loo/Neural-Networks-and-Deep-Learning-Course)
