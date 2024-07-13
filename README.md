@@ -1,12 +1,12 @@
 # UT-ECE-Student-Resources
 
-🎓 **Welcome to the University of Tehran's CE Student Resources Repository!** 🎓
+🎓 **Welcome to the University of Tehran's CE Student Resources Repository!**
 
 We are passionate computer engineering students dedicated to *sharing and curating valuable resources* from our studies. Our goal is to support future students and foster a collaborative academic community.
 <br>
 <br>
 
-✨ **Special Thanks to the Contributors!** ✨  
+✨ **Special Thanks to the Contributors!** 
 We extend our heartfelt gratitude to all students who have shared their incredible work. Your contributions help create a richer, more accessible education for everyone. 🙏
 <br>
 <br>
@@ -18,10 +18,16 @@ Sharing your code is a win-win! Here's why:
 - **Gain Recognition**: Sharing your works allows you to establish a presence in your community. *You can showcase your work on your profile and use it as a reference.*
 - **Foster Collaboration**: You can invite others to build upon your work, leading to improvements, new ideas, and better solutions.
 <br>
+*If you know another valid repository that can be added to this list, feel free to fork or contact us at [email](mailto:m.shafieeha@gmail.com). Let's continue to grow this repository together!* 🌱
+<br>
+<br>
 
-💡 **Have a Resource to Share?**  
-If you know another valid repository that can be added to this list, feel free to fork or contact us at [email](mailto:m.shafieeha@gmail.com). Let's continue to grow this repository together! 🌱
-
+⭐ **Please give it a star!**
+<p>Click the star button at the top right corner of this page. Your support is greatly appreciated! 🙌</p>
+<a href="https://github.com/yourusername/yourrepository" style="text-decoration:none;">
+<img src="https://img.shields.io/badge/Give%20a%20Star-⭐-yellow" alt="Give a Star">
+</a>
+<br>
 <br>
 
 ## Table of Contents
