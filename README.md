@@ -78,6 +78,7 @@ If you know another valid repository that can be added to this list, feel free t
 
 ### [3. Data Mining - Dr. Azade Shakeri](https://dm-ut.github.io)
 * [**Homeworks (2023, Spring)**](https://github.com/VavRe/data-mining-ut) by Vahid Rahimzade
+* [**Homeworks (2018, Spring)**](https://github.com/aliizadi/Data-Mining-Course) by Ali Izadi
 
 ### 4. Information Retrieavl  - Dr. Azade Shakeri
 * [**Homeworks (2022, Fall)**](https://github.com/VavRe/data-mining-ut) by Vahid Rahimzade
@@ -107,6 +108,7 @@ If you know another valid repository that can be added to this list, feel free t
 
 ### 10. Statistical Inference - Dr. Behnam Bahrak 
 * [**Homeworks (2022, Spring)**](https://github.com/farzaneh-hatami/StatisticalInference) by Farzaneh Hatami
+* [**Homeworks (2021, Spring)**](https://github.com/aliizadi/statistical-inference-course) by Ali Izadi
 * [**Homeworks (2022, Fall)**](https://github.com/fatemehnadir/Statistical-Inference) by Fatemeh Nadir
 * [**Homeworks (2021, Fall)**](https://github.com/niiiikou/Statistical-Inference)
 
@@ -118,6 +120,7 @@ If you know another valid repository that can be added to this list, feel free t
 ### 12. Neural Networks and Deep Learning - Dr. Ahmad Kalhor
 * [**Homeworks (2023, Fall)**](https://github.com/Hadi-loo/Neural-Networks-and-Deep-Learning-Course) by Hadi Babalou
 * [**Homeworks (2022, Fall)**](https://github.com/Farbod-Siahkali/Neural-Networks-and-Deep-Learning) by Farbod Siahkali
+* [**Homeworks (2021, Fall)**](https://github.com/aliizadi/neural-networks-course) by Ali Izadi
 
 ### 13. Cognitive Science
 * [**Homeworks (2022, Spring)**](https://github.com/m4hyarm/Cognitive_Science_Course_Assignments) by Mahyar Maleki
@@ -126,7 +129,9 @@ If you know another valid repository that can be added to this list, feel free t
 * [**Homeworks (2022, Fall)**](https://github.com/varaste/Information-Technology-Management-ITM) by Arya Varaste
 
 ### 15. Data Analysis
-* [**Homeworks ()**](https://github.com/sepehr-karimi/Data-Analysis-Course) by Sepehr Karimi
+* [**Homeworks (2022)**](https://github.com/sepehr-karimi/Data-Analysis-Course) by Sepehr Karimi
+* [**Homeworks (2022)**](https://github.com/yaramohamadi/2022_DataAnalytics_SummerSchool) by Yara M. Bahram
+
 
 <br>
 
@@ -134,10 +139,10 @@ If you know another valid repository that can be added to this list, feel free t
 
 ### 1. AI - Dr.Fadaei
 * [**Homeworks (2023, Spring)**](https://github.com/AliHamzeh2002/AI-Course-Projects) by Ali Hamzehpour
-* [**Homeworks (2023, Spring)**](https://github.com/avamirm/Artificial-Intelligence-Projects) by Ava Mir Mohammad Mahdi
 * [**Homeworks (2023, Spring)**](https://github.com/Hadi-loo/Artificial-Intelligence-Course) by Hadi Babalou
 * [**Homeworks (2023, Spring)**](https://github.com/Shahriar-0/Artificial-Intelligence-Course-Projects-S2023) by Shahriar Attar
 * [**Homeworks (2023, Fall)**](https://github.com/MobinaMhr/Artificial-Intelligence-Course-F2024) by Mobina Mehrazar
+* [**Homeworks (2022, Fall)**](https://github.com/avamirm/Artificial-Intelligence-Projects) by Ava Mir Mohammad Mahdi
 * [**Homeworks (2022, Fall)**](https://github.com/PashaBarahimi/Artificial-Intelligence-Projects) by Pasha Barahimi
 * [**Homeworks(2021, Fall)**](https://github.com/AliAkhgari/Artificial-Intelligence-Course) by Ali Akhgari
 
@@ -145,14 +150,14 @@ If you know another valid repository that can be added to this list, feel free t
 * [**Homeworks (2020)**](https://github.com/HPNL/TCP-IP-Laboratory)
 
 ### 3. Computer Architecture Lab
+* [**Homeworks (2024, Spring)**](https://github.com/MAmin-y/Computer-Architecture-Course-Projects-S2023) by Mohammad Amin Yousefi
 * [**Homeworks (2023, Spring)**](https://github.com/PashaBarahimi/Computer-Architecture-Lab-Projects) by Pasha Barahimi
-* [**Homeworks (2023, Spring)**](https://github.com/MAmin-y/Computer-Architecture-Course-Projects-S2023) by Mohammad Amin Yousefi
 * [**Homeworks (2021)**](https://github.com/kalhorghazal/ARM-Processor)
 
 ### 4. OS
 * [**Homeworks (2023, Fall)**](https://github.com/MAmin-y/Operating-System-Course-Projects) by Mohammad Amin Yousefi
-* [**Homeworks (2023, Fall)**](https://github.com/avamirm/Operating-System-Projects) by Ava Mir Mohammad Mahdi
 * [**Homeworks (2022, Spring)**](https://github.com/PashaBarahimi/Operating-System-Projects) by Pasha Barahimi
+* [**Homeworks (2022, Fall)**](https://github.com/avamirm/Operating-System-Projects) by Ava Mir Mohammad Mahdi
 
 ### 5. Cyber Physical Systems 
 * [**Smart Flower Pot Implementation(2023, Spring)**](https://github.com/Theparia/Arduino-Smart-Flower-Pot)
@@ -162,7 +167,8 @@ If you know another valid repository that can be added to this list, feel free t
 * [**Homeworks(2022, Spring)**](https://github.com/PashaBarahimi/Computer-Architecture-Course-Projects) by Pasha Barahimi
 
 ### 7. Software Testing
-* [**Homeworks(2023, Spring)**](https://github.com/avamirm/Software-Testing-Course-Projects) by Ava Mir Mohammad Mahdi
+* [**Homeworks(2023, Fall)**](https://github.com/avamirm/Software-Testing-Course-Projects) by Ava Mir Mohammad Mahdi
+* [**Homeworks(2023, Fall)**](https://github.com/Hadi-loo/Software-Testing-Course) by Hadi Babalou
 
 ### 8. Database Lab - Reza Dehghani
 * [**Homeworks(2023, Fall)**](https://github.com/PashaBarahimi/Database-Lab-Projects) by Pasha Barahimi
@@ -171,8 +177,9 @@ If you know another valid repository that can be added to this list, feel free t
 * [**Homeworks(2024, Spring)**](https://github.com/Shahriar-0/Programming-Languages-and-Compiler-Course-Projects-S2024) by Shahriar Attar
 * [**Homeworks(2023, Spring)**](https://github.com/PashaBarahimi/Compiler-Course-Projects) by Pasha Barahimi
 
-### 10. Network
+### 10. Network - Dr. Naser Yazdani
 * [**Homeworks(2023, Spring)**](https://github.com/PashaBarahimi/Computer-Networks-Course-Projects) by Pasha Barahimi
+* [**Homeworks(2023, Spring)**](https://github.com/Hadi-loo/Computer-Networks-Course) by Hadi Babalou
 
 ### 11. OS Lab
 * [**Homeworks(2023, Spring)**](https://github.com/Shahriar-0/Operating-System-Lab-Projects-S2024) by Shahriar Attar
@@ -182,8 +189,6 @@ If you know another valid repository that can be added to this list, feel free t
 ### 12. Advanced Progeramming
 * [**Homeworks(2022, Spring)**](https://github.com/Shahriar-0/Advanced-Programming-Course-Projects-S2022) by Shahriar Attar
 * [**Homeworks(2020, Spring)**](https://github.com/AliAkhgari/Advanced-Programming-Course) by Ali Akhgari
-
-
 
 ### Other
 * [**ACM Summer School Blockchain & Web3 (2023)**](https://github.com/UT-ACM-Student-Chapter/Blockchain-SoC-Projects) by UT ACM Student Chapter
