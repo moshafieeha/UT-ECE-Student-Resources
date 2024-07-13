@@ -2,28 +2,29 @@
 
 🎓 **Welcome to the University of Tehran's CE Student Resources Repository!**
 
-We are passionate computer engineering students dedicated to *sharing and curating valuable resources* from our studies. Our goal is to support future students and foster a collaborative academic community.
+We are passionate computer engineering students dedicated to *sharing and curating valuable resources* from our studies. Our goal is to support future students and academic community.
 <br>
 <br>
 
 ✨ **Special Thanks to the Contributors!** 
-We extend our heartfelt gratitude to all students who have shared their incredible work. Your contributions help create a richer, more accessible education for everyone. 🙏
+
+We extend our heartfelt gratitude to all students who have shared their incredible work. Your contributions create a more accessible education.
 <br>
 <br>
 
 🤝 **Why Share Your Code?**  
 Sharing your code is a win-win! Here's why:
 
-- **Build Your Portfolio**: Open-sourcing your projects demonstrates your skills and commitment to potential employers/academic opportunities.
-- **Gain Recognition**: Sharing your works allows you to establish a presence in your community. *You can showcase your work on your profile and use it as a reference.*
+- **Build Your Portfolio**: Open-sourcing your projects demonstrates your skills and commitment to potential opportunities.
+- **Gain Recognition**: You can showcase your work on your profile and use it as a reference in your community.
 - **Foster Collaboration**: You can invite others to build upon your work, leading to improvements, new ideas, and better solutions.
-<br>
-*If you know another valid repository that can be added to this list, feel free to fork or contact us at [email](mailto:m.shafieeha@gmail.com). Let's continue to grow this repository together!* 🌱
+
+If you know another valid repository, feel free to fork or <a href="mailto:m.shafieeha@gmail.com">email</a>. Let's continue to grow this repository together! 🌱
 <br>
 <br>
 
 ⭐ **Please give it a star!**
-<p>Click the star button at the top right corner of this page. Your support is greatly appreciated! 🙌</p>
+<p>Click the star button at the top right corner of this page. Your support is greatly appreciated!</p>
 <a href="https://github.com/yourusername/yourrepository" style="text-decoration:none;">
 <img src="https://img.shields.io/badge/Give%20a%20Star-⭐-yellow" alt="Give a Star">
 </a>
