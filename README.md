@@ -39,6 +39,7 @@ If you know another valid repository that can be added to this list, feel free t
     11. [Deep Generative Model - Dr. Mostafa Tavassolipour](#11-deep-generative-model---dr-mostafa-tavassolipour)
     12. [Neural Networks and Deep Learning - Dr. Ahmad Kalhor](#12-neural-networks-and-deep-learning---dr-ahmad-kalhor)
     13. [Cognitive Science](#13-cognitive-science)
+    14. [Information Technology Management (ITM) - Dr. Fattaneh Taghiyareh](#14-information-technology-management-(ITM)---dr-fattaneh-taghiyareh)
 2. [Undergraduate Courses](#undergraduate-courses)
     1. [AI - Dr. Fadaei](#1-ai---dr-fadaei)
     2. [Network Lab - Dr. Ahmad Khonsari](#2-network-lab---dr-ahmad-khonsari)
@@ -111,6 +112,9 @@ If you know another valid repository that can be added to this list, feel free t
 
 ### 13. Cognitive Science
 * [**Homeworks (2022, Spring)**](https://github.com/m4hyarm/Cognitive_Science_Course_Assignments)
+
+### 14. Information Technology Management (ITM) - Dr. Fattaneh Taghiyareh
+* [**Homeworks (2022, Fall)**](https://github.com/varaste/Information-Technology-Management-ITM)
 
 <br>
 
