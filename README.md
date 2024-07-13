@@ -81,7 +81,7 @@ If you know another valid repository that can be added to this list, feel free t
 
 ### 4. Information Retrieavl  - Dr. Azade Shakeri
 * [**Homeworks (2022, Fall)**](https://github.com/VavRe/data-mining-ut) by Vahid Rahimzade
-* [**Homeworks (2021, Fall)**](https://github.com/mamathew98/Intelligent-Information-Retrieval-Projects)
+* [**Homeworks (2021, Fall)**](https://github.com/mamathew98/Intelligent-Information-Retrieval-Projects) by Mohammad Naseri
 
 ### 5. Socila Network - Dr. Masoud Asadpour
 * [**Homeworks (2022, Fall)**](https://github.com/VavRe/social-networks-ut) by Vahid Rahimzade
@@ -98,7 +98,7 @@ If you know another valid repository that can be added to this list, feel free t
 * [**Final Project (2023, Spring)**](https://github.com/HesamAsad/MachineLearning-Spring2023-FinalProject)
 * [**Homeworks (2023, Spring)**](https://github.com/fardinabbasi/Machine_Learning) by Fardin Abbasi
 * [**Homeworks (2022, Fall)**](https://github.com/fatemehnadir/Machine-Learning) by Fatemeh Nadir
-* [**Homeworks (2021, Fall)**](https://github.com/iman2693/ML-UTCS-2021)
+* [**Homeworks (2021, Fall)**](https://github.com/iman2693/ML-UTCS-2021) by Iman Kianian
 
 ### 9. Deep Learning (with applications in vision and voice) - Dr. Reshad Hosseini
 * [**Homeworks (2022, Spring)**](https://github.com/m4hyarm/Deep_Learning_Course_Assignments) by Mahyar Maleki
@@ -115,13 +115,13 @@ If you know another valid repository that can be added to this list, feel free t
 
 ### 12. Neural Networks and Deep Learning - Dr. Ahmad Kalhor
 * [**Homeworks (2023, Fall)**](https://github.com/Hadi-loo/Neural-Networks-and-Deep-Learning-Course) by Hadi Babalou
-* [**Homeworks (2022, Fall)**](https://github.com/Farbod-Siahkali/Neural-Networks-and-Deep-Learning)
+* [**Homeworks (2022, Fall)**](https://github.com/Farbod-Siahkali/Neural-Networks-and-Deep-Learning) by Farbod Siahkali
 
 ### 13. Cognitive Science
 * [**Homeworks (2022, Spring)**](https://github.com/m4hyarm/Cognitive_Science_Course_Assignments) by Mahyar Maleki
 
 ### 14. Information Technology Management (ITM) - Dr. Fattaneh Taghiyareh
-* [**Homeworks (2022, Fall)**](https://github.com/varaste/Information-Technology-Management-ITM) by Ariya Varaste
+* [**Homeworks (2022, Fall)**](https://github.com/varaste/Information-Technology-Management-ITM) by Arya Varaste
 
 ### 15. Data Analysis
 * [**Homeworks ()**](https://github.com/sepehr-karimi/Data-Analysis-Course) by Sepehr Karimi
@@ -131,10 +131,10 @@ If you know another valid repository that can be added to this list, feel free t
 ## Undergraduate Courses
 
 ### 1. AI - Dr.Fadaei
-* [**Homeworks (2023, Spring)**](https://github.com/AliHamzeh2002/AI-Course-Projects)
+* [**Homeworks (2023, Spring)**](https://github.com/AliHamzeh2002/AI-Course-Projects) by Ali Hamzehpour
 * [**Homeworks (2023, Spring)**](https://github.com/avamirm/Artificial-Intelligence-Projects) by Ava Mir Mohammad Mahdi
 * [**Homeworks (2023, Spring)**](https://github.com/Hadi-loo/Artificial-Intelligence-Course) by Hadi Babalou
-* [**Homeworks (2023, Fall)**](https://github.com/MobinaMhr/Artificial-Intelligence-Course-F2024)
+* [**Homeworks (2023, Fall)**](https://github.com/MobinaMhr/Artificial-Intelligence-Course-F2024) by Mobina Mehrazar
 * [**Homeworks (2022, Fall)**](https://github.com/PashaBarahimi/Artificial-Intelligence-Projects) by Pasha Barahimi
 * [**Homeworks(2021, Fall)**](https://github.com/AliAkhgari/Artificial-Intelligence-Course) by Ali Akhgari
 
@@ -180,8 +180,8 @@ If you know another valid repository that can be added to this list, feel free t
 
 
 ### Other
-* [**ACM Summer School Blockchain & Web3 (2023)**](https://github.com/UT-ACM-Student-Chapter/Blockchain-SoC-Projects)
-* [**ACM Summer School AI (2021)**](https://github.com/AmirAbaskohi/ACM-Summer-School-2021-AI)
+* [**ACM Summer School Blockchain & Web3 (2023)**](https://github.com/UT-ACM-Student-Chapter/Blockchain-SoC-Projects) by UT ACM Student Chapter
+* [**ACM Summer School AI (2021)**](https://github.com/AmirAbaskohi/ACM-Summer-School-2021-AI) by Amir Abaskohi
 <br>
 
 ## Assets
