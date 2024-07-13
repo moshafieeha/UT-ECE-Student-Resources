@@ -40,6 +40,7 @@ If you know another valid repository that can be added to this list, feel free t
     12. [Neural Networks and Deep Learning - Dr. Ahmad Kalhor](#12-neural-networks-and-deep-learning---dr-ahmad-kalhor)
     13. [Cognitive Science](#13-cognitive-science)
     14. [Information Technology Management (ITM) - Dr. Fattaneh Taghiyareh](#14-information-technology-management-itm---dr-fattaneh-taghiyareh)
+    15. [Data Analysis](#15-data-analysis)
 2. [Undergraduate Courses](#undergraduate-courses)
     1. [AI - Dr. Fadaei](#1-ai---dr-fadaei)
     2. [Network Lab - Dr. Ahmad Khonsari](#2-network-lab---dr-ahmad-khonsari)
@@ -115,6 +116,9 @@ If you know another valid repository that can be added to this list, feel free t
 
 ### 14. Information Technology Management (ITM) - Dr. Fattaneh Taghiyareh
 * [**Homeworks (2022, Fall)**](https://github.com/varaste/Information-Technology-Management-ITM)
+
+### 15. Data Analysis
+* [**Homeworks ()**](https://github.com/sepehr-karimi/Data-Analysis-Course)
 
 <br>
 
