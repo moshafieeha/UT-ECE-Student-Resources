@@ -69,7 +69,7 @@ If you know another valid repository that can be added to this list, feel free t
 * [**LangGraph Workshop (2024, Spring)**](https://github.com/VavRe/ut-nlp-langgraph)
 * [**Homeworks (2023, Spring)**](https://github.com/VavRe/nlp-ut)
 * [**Homeworks (2023, Spring)**](https://github.com/fatemehnadir/Natural-Language-Processing)
-* [**Homeworks (2023, Spring)**](https://github.com/sepehr-karimi/NLP_course)
+* [**Homeworks (2022, Fall)**](https://github.com/sepehr-karimi/NLP_course)
 
 ### [3. Data Mining - Dr. Azade Shakeri](https://dm-ut.github.io)
 * [**Homeworks (2023, Spring)**](https://github.com/VavRe/data-mining-ut)
