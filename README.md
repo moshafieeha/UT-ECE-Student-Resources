@@ -49,7 +49,12 @@ If you know another valid repository that can be added to this list, feel free t
     5. [Cyber Physical Systems](#5-cyber-physical-systems)
     6. [Computer Architecture](#6-computer-architecture)
     7. [Software Testing](#7-software-testing)
-    8. [Other](#other)
+    8. [Database Lab - Reza Dehghani](#8-database-lab---reza-dehghani)
+    9. [Compiler](#9-compiler)
+    10. [Network](#10-network)
+    11. [OS Lab](#11-os-lab)
+    12. [Advanced Programming](#12-advanced-programming)
+    13. [Other](#13-other)
 3. [Assets](#assets)
 
 <br>
@@ -57,69 +62,69 @@ If you know another valid repository that can be added to this list, feel free t
 ## Graduate Courses
 
 ### 1. Trustworthy AI - Dr. Mostafa Tavassolipour
-* [**Homeworks (2024, Spring)**](https://github.com/moshafieeha/Deep-Learning-Mini-Projects)
-* [**Homeworks (2023, Spring)**](https://github.com/m4hyarm/Trustworthy_AI_Course_Assignments)
-* [**Homeworks (2023, Spring)**](https://github.com/farzaneh-hatami/Trustworthy-AI)
-* [**Disentangling VAE Implementation**](https://github.com/farshadsangari/disentangling-vae)
-* [**Metric Learning Implementation**](https://github.com/farshadsangari/robust_classifier)
-* [**Saliency Map Implementation**](https://github.com/farshadsangari/saliency_map_prediction)
+* [**Homeworks (2024, Spring)**](https://github.com/moshafieeha/Deep-Learning-Mini-Projects) by Mohammad Shafieeha
+* [**Homeworks (2023, Spring)**](https://github.com/m4hyarm/Trustworthy_AI_Course_Assignments) by Mahyar Maleki
+* [**Homeworks (2023, Spring)**](https://github.com/farzaneh-hatami/Trustworthy-AI) by Farzaneh Hatami
+* [**Disentangling VAE Implementation**](https://github.com/farshadsangari/disentangling-vae) by Farshad Sangari
+* [**Metric Learning Implementation**](https://github.com/farshadsangari/robust_classifier) by Pasha Barahimi
+* [**Saliency Map Implementation**](https://github.com/farshadsangari/saliency_map_prediction) by Pasha Barahimi
 * [**FGSM Adversarial Attacks**](https://github.com/ahedayat/FGSM-Adversarial-Attacks)
 
 ### [2. NLP - Dr. Hesham Faili](https://nlp-ut.github.io)
-* [**LangGraph Workshop (2024, Spring)**](https://github.com/VavRe/ut-nlp-langgraph)
-* [**Homeworks (2023, Spring)**](https://github.com/VavRe/nlp-ut)
-* [**Homeworks (2023, Spring)**](https://github.com/fatemehnadir/Natural-Language-Processing)
-* [**Homeworks (2022, Fall)**](https://github.com/sepehr-karimi/NLP_course)
+* [**LangGraph Workshop (2024, Spring)**](https://github.com/VavRe/ut-nlp-langgraph) by Vahid Rahimzade
+* [**Homeworks (2023, Spring)**](https://github.com/VavRe/nlp-ut) by Vahid Rahimzade
+* [**Homeworks (2023, Spring)**](https://github.com/fatemehnadir/Natural-Language-Processing) by Fatemeh Nadir
+* [**Homeworks (2022, Fall)**](https://github.com/sepehr-karimi/NLP_course) by Sepehr Karimi
 
 ### [3. Data Mining - Dr. Azade Shakeri](https://dm-ut.github.io)
-* [**Homeworks (2023, Spring)**](https://github.com/VavRe/data-mining-ut)
+* [**Homeworks (2023, Spring)**](https://github.com/VavRe/data-mining-ut) by Vahid Rahimzade
 
 ### 4. Information Retrieavl  - Dr. Azade Shakeri
-* [**Homeworks (2022, Fall)**](https://github.com/VavRe/data-mining-ut)
+* [**Homeworks (2022, Fall)**](https://github.com/VavRe/data-mining-ut) by Vahid Rahimzade
 * [**Homeworks (2021, Fall)**](https://github.com/mamathew98/Intelligent-Information-Retrieval-Projects)
 
 ### 5. Socila Network - Dr. Masoud Asadpour
-* [**Homeworks (2022, Fall)**](https://github.com/VavRe/social-networks-ut)
+* [**Homeworks (2022, Fall)**](https://github.com/VavRe/social-networks-ut) by Vahid Rahimzade
 * [**Homeworks (2022, Fall)**](https://github.com/S-razmi/social_network_assg)
 
 ### 6. Advanced Deep Learning - Dr. Ahmad Kalhor
-* [**Homeworks (2022, Fall)**](https://github.com/farzaneh-hatami/MetricLearning)
+* [**Homeworks (2022, Fall)**](https://github.com/farzaneh-hatami/MetricLearning) by Farzaneh Hatami
 
 ### 7. Reinforcement Learning - Dr. Majid Nili Ahmad Abadi
-* [**Homeworks (2022, Fall)**](https://github.com/m4hyarm/Reinforcement_Learning_Course_Assignments)
+* [**Homeworks (2022, Fall)**](https://github.com/m4hyarm/Reinforcement_Learning_Course_Assignments) by Mahyar Maleki
 * [**Homeworks (2022, Fall)**](https://github.com/S-razmi/RL-Course-assg)
 
 ### 8. Machine Learning - Dr. A. Dehaqani, Dr. Mostafa Tavassolipour
 * [**Final Project (2023, Spring)**](https://github.com/HesamAsad/MachineLearning-Spring2023-FinalProject)
-* [**Homeworks (2023, Spring)**](https://github.com/fardinabbasi/Machine_Learning)
-* [**Homeworks (2022, Fall)**](https://github.com/fatemehnadir/Machine-Learning)
+* [**Homeworks (2023, Spring)**](https://github.com/fardinabbasi/Machine_Learning) by Fardin Abbasi
+* [**Homeworks (2022, Fall)**](https://github.com/fatemehnadir/Machine-Learning) by Fatemeh Nadir
 * [**Homeworks (2021, Fall)**](https://github.com/iman2693/ML-UTCS-2021)
 
 ### 9. Deep Learning (with applications in vision and voice) - Dr. Reshad Hosseini
-* [**Homeworks (2022, Spring)**](https://github.com/m4hyarm/Deep_Learning_Course_Assignments)
+* [**Homeworks (2022, Spring)**](https://github.com/m4hyarm/Deep_Learning_Course_Assignments) by Mahyar Maleki
 
 ### 10. Statistical Inference - Dr. Behnam Bahrak 
-* [**Homeworks (2022, Spring)**](https://github.com/farzaneh-hatami/StatisticalInference)
-* [**Homeworks (2022, Fall)**](https://github.com/fatemehnadir/Statistical-Inference)
+* [**Homeworks (2022, Spring)**](https://github.com/farzaneh-hatami/StatisticalInference) by Farzaneh Hatami
+* [**Homeworks (2022, Fall)**](https://github.com/fatemehnadir/Statistical-Inference) by Fatemeh Nadir
 * [**Homeworks (2021, Fall)**](https://github.com/niiiikou/Statistical-Inference)
 
 ### 11. Deep Generative Model - Dr. Mostafa Tavassolipour
-* [**Homeworks (2023, Fall)**](https://github.com/fatemehnadir/Deep-Generative-Model)
+* [**Homeworks (2023, Fall)**](https://github.com/fatemehnadir/Deep-Generative-Model) by Fatemeh Nadir
 * [**Homeworks (2023, Fall)**](https://github.com/Arhosseini77/dgm_course_2023)
 * [**Homeworks (2022, Fall)**](https://github.com/niiiikou/DeepGenerativeModels)
 
 ### 12. Neural Networks and Deep Learning - Dr. Ahmad Kalhor
-* [**Homeworks (2023, Fall)**](https://github.com/Hadi-loo/Neural-Networks-and-Deep-Learning-Course)
+* [**Homeworks (2023, Fall)**](https://github.com/Hadi-loo/Neural-Networks-and-Deep-Learning-Course) by Hadi Babalou
 * [**Homeworks (2022, Fall)**](https://github.com/Farbod-Siahkali/Neural-Networks-and-Deep-Learning)
 
 ### 13. Cognitive Science
-* [**Homeworks (2022, Spring)**](https://github.com/m4hyarm/Cognitive_Science_Course_Assignments)
+* [**Homeworks (2022, Spring)**](https://github.com/m4hyarm/Cognitive_Science_Course_Assignments) by Mahyar Maleki
 
 ### 14. Information Technology Management (ITM) - Dr. Fattaneh Taghiyareh
-* [**Homeworks (2022, Fall)**](https://github.com/varaste/Information-Technology-Management-ITM)
+* [**Homeworks (2022, Fall)**](https://github.com/varaste/Information-Technology-Management-ITM) by Ariya Varaste
 
 ### 15. Data Analysis
-* [**Homeworks ()**](https://github.com/sepehr-karimi/Data-Analysis-Course)
+* [**Homeworks ()**](https://github.com/sepehr-karimi/Data-Analysis-Course) by Sepehr Karimi
 
 <br>
 
@@ -127,28 +132,52 @@ If you know another valid repository that can be added to this list, feel free t
 
 ### 1. AI - Dr.Fadaei
 * [**Homeworks (2023, Spring)**](https://github.com/AliHamzeh2002/AI-Course-Projects)
-* [**Homeworks (2023, Spring)**](https://github.com/avamirm/Artificial-Intelligence-Projects)
-* [**Homeworks (2023, Spring)**](https://github.com/Hadi-loo/Artificial-Intelligence-Course)
+* [**Homeworks (2023, Spring)**](https://github.com/avamirm/Artificial-Intelligence-Projects) by Ava Mir Mohammad Mahdi
+* [**Homeworks (2023, Spring)**](https://github.com/Hadi-loo/Artificial-Intelligence-Course) by Hadi Babalou
 * [**Homeworks (2023, Fall)**](https://github.com/MobinaMhr/Artificial-Intelligence-Course-F2024)
-* [**Homeworks (2022, Fall)**](https://github.com/PashaBarahimi/Artificial-Intelligence-Projects)
+* [**Homeworks (2022, Fall)**](https://github.com/PashaBarahimi/Artificial-Intelligence-Projects) by Pasha Barahimi
+* [**Homeworks(2021, Fall)**](https://github.com/AliAkhgari/Artificial-Intelligence-Course) by Ali Akhgari
 
 ### 2. Network Lab - Dr. Ahmad Khonsari
 * [**Homeworks (2020)**](https://github.com/HPNL/TCP-IP-Laboratory)
 
 ### 3. Computer Architecture Lab
+* [**Homeworks (2023, Spring)**](https://github.com/PashaBarahimi/Computer-Architecture-Lab-Projects) by Pasha Barahimi
+* [**Homeworks (2023, Spring)**](https://github.com/MAmin-y/Computer-Architecture-Course-Projects-S2023) by Mohammad Amin Yousefi
 * [**Homeworks (2021)**](https://github.com/kalhorghazal/ARM-Processor)
 
 ### 4. OS
-* [**Homeworks (2023, Fall)**](https://github.com/avamirm/Operating-System-Projects)
+* [**Homeworks (2023, Fall)**](https://github.com/MAmin-y/Operating-System-Course-Projects) by Mohammad Amin Yousefi
+* [**Homeworks (2023, Fall)**](https://github.com/avamirm/Operating-System-Projects) by Ava Mir Mohammad Mahdi
+* [**Homeworks (2022, Spring)**](https://github.com/PashaBarahimi/Operating-System-Projects) by Pasha Barahimi
 
 ### 5. Cyber Physical Systems 
 * [**Smart Flower Pot Implementation(2023, Spring)**](https://github.com/Theparia/Arduino-Smart-Flower-Pot)
 
 ### 6. Computer Architecture
-* [**MIPS Processor Implementation(2022)**](https://github.com/avamirm/Computer-Architecture-Course-Projects)
+* [**MIPS Processor Implementation(2022)**](https://github.com/avamirm/Computer-Architecture-Course-Projects) by Ava Mir Mohammad Mahdi
+* [**Homeworks(2022, Spring)**](https://github.com/PashaBarahimi/Computer-Architecture-Course-Projects) by Pasha Barahimi
 
 ### 7. Software Testing
-* [**Homeworks(2023, Spring)**](https://github.com/avamirm/Software-Testing-Course-Projects)
+* [**Homeworks(2023, Spring)**](https://github.com/avamirm/Software-Testing-Course-Projects) by Ava Mir Mohammad Mahdi
+
+### 8. Database Lab - Reza Dehghani
+* [**Homeworks(2023, Fall)**](https://github.com/PashaBarahimi/Database-Lab-Projects) by Pasha Barahimi
+
+### 9. Compiler
+* [**Homeworks(2023, Spring)**](https://github.com/PashaBarahimi/Compiler-Course-Projects) by Pasha Barahimi
+
+### 10. Network
+* [**Homeworks(2023, Spring)**](https://github.com/PashaBarahimi/Computer-Networks-Course-Projects) by Pasha Barahimi
+
+### 11. OS Lab
+* [**Homeworks(2023, Spring)**](https://github.com/AliAkhgari/Operating-System-Course) by Ali Akhgari
+* [**Homeworks(2022, Spring)**](https://github.com/PashaBarahimi/Operating-System-Lab-Projects) by Pasha Barahimi
+
+### 12. Advanced Progeramming
+* [**Homeworks(2020, Spring)**](https://github.com/AliAkhgari/Advanced-Programming-Course) by Ali Akhgari
+
+
 
 ### Other
 * [**ACM Summer School Blockchain & Web3 (2023)**](https://github.com/UT-ACM-Student-Chapter/Blockchain-SoC-Projects)
