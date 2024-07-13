@@ -15,9 +15,9 @@ We extend our heartfelt gratitude to all students who have shared their incredib
 🤝 **Why Share Your Code?**  
 Sharing your code is a win-win! Here's why:
 
-- **Build Your Portfolio**: Open-sourcing your projects demonstrates your skills and commitment to potential opportunities.
-- **Gain Recognition**: You can showcase your work on your profile and use it as a reference in your community.
-- **Foster Collaboration**: You can invite others to build upon your work, leading to improvements, new ideas, and better solutions.
+- **Build Your Portfolio**: Open-sourcing your projects demonstrates your skills to potential opportunities.
+- **Gain Recognition**: You can showcase your work on your profile and use it as a reference.
+- **Foster Collaboration**: You can invite others to build upon your work, leading to improvements, and better solutions.
 
 If you know another valid repository, feel free to fork or <a href="mailto:m.shafieeha@gmail.com">email</a>. Let's continue to grow this repository together! 🌱
 <br>
