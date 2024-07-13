@@ -135,10 +135,19 @@ If you know another valid repository, feel free to fork or <a href="mailto:m.sha
 ### 14. Information Technology Management (ITM) - Dr. Fattaneh Taghiyareh
 * [**Homeworks (2022, Fall)**](https://github.com/varaste/Information-Technology-Management-ITM) by Arya Varaste
 
-### 15. Data Analysis
-* [**Homeworks (2022)**](https://github.com/sepehr-karimi/Data-Analysis-Course) by Sepehr Karimi
+### 15. Data Analysis - Dr. Mohammad Amin Sadeghi
+* [**Homeworks (2022, Fall)**](https://github.com/sepehr-karimi/Data-Analysis-Course) by Sepehr Karimi
+* [**Homeworks (2021, Fall)**](https://github.com/aliizadi/data-analysis-course) by Ali Izadi
 * [**Homeworks (2022)**](https://github.com/yaramohamadi/2022_DataAnalytics_SummerSchool) by Yara M. Bahram
 
+### 16. Advanced Optimizatio
+* [**Homeworks (2021, Fall)**](https://github.com/aliizadi/advanced-optimization-course) by Ali Izadi
+
+### 17. Crypto Currencies
+* [**Homeworks (2023, Spring)**](https://github.com/AlirezaMoseni/UT-Crypto-Currencies-Course) by Alireza Mohseni
+
+### 18. Distributed Optimization and Learning
+* [**Homeworks (2023, Fall)**](https://github.com/AlirezaMoseni/UT-Distributed-Optimization-and-Learning) by Alireza Mohseni
 
 <br>
 
