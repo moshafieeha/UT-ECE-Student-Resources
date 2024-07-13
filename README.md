@@ -134,6 +134,7 @@ If you know another valid repository that can be added to this list, feel free t
 * [**Homeworks (2023, Spring)**](https://github.com/AliHamzeh2002/AI-Course-Projects) by Ali Hamzehpour
 * [**Homeworks (2023, Spring)**](https://github.com/avamirm/Artificial-Intelligence-Projects) by Ava Mir Mohammad Mahdi
 * [**Homeworks (2023, Spring)**](https://github.com/Hadi-loo/Artificial-Intelligence-Course) by Hadi Babalou
+* [**Homeworks (2023, Spring)**](https://github.com/Shahriar-0/Artificial-Intelligence-Course-Projects-S2023) by Shahriar Attar
 * [**Homeworks (2023, Fall)**](https://github.com/MobinaMhr/Artificial-Intelligence-Course-F2024) by Mobina Mehrazar
 * [**Homeworks (2022, Fall)**](https://github.com/PashaBarahimi/Artificial-Intelligence-Projects) by Pasha Barahimi
 * [**Homeworks(2021, Fall)**](https://github.com/AliAkhgari/Artificial-Intelligence-Course) by Ali Akhgari
@@ -165,16 +166,19 @@ If you know another valid repository that can be added to this list, feel free t
 * [**Homeworks(2023, Fall)**](https://github.com/PashaBarahimi/Database-Lab-Projects) by Pasha Barahimi
 
 ### 9. Compiler
+* [**Homeworks(2024, Spring)**](https://github.com/Shahriar-0/Programming-Languages-and-Compiler-Course-Projects-S2024) by Shahriar Attar
 * [**Homeworks(2023, Spring)**](https://github.com/PashaBarahimi/Compiler-Course-Projects) by Pasha Barahimi
 
 ### 10. Network
 * [**Homeworks(2023, Spring)**](https://github.com/PashaBarahimi/Computer-Networks-Course-Projects) by Pasha Barahimi
 
 ### 11. OS Lab
+* [**Homeworks(2023, Spring)**](https://github.com/Shahriar-0/Operating-System-Lab-Projects-S2024) by Shahriar Attar
 * [**Homeworks(2023, Spring)**](https://github.com/AliAkhgari/Operating-System-Course) by Ali Akhgari
 * [**Homeworks(2022, Spring)**](https://github.com/PashaBarahimi/Operating-System-Lab-Projects) by Pasha Barahimi
 
 ### 12. Advanced Progeramming
+* [**Homeworks(2022, Spring)**](https://github.com/Shahriar-0/Advanced-Programming-Course-Projects-S2022) by Shahriar Attar
 * [**Homeworks(2020, Spring)**](https://github.com/AliAkhgari/Advanced-Programming-Course) by Ali Akhgari
 
 
