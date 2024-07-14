@@ -200,11 +200,13 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
 
 ### 3. Computer Architecture Lab
 * [**Homeworks (2024, Spring)**](https://github.com/MAmin-y/Computer-Architecture-Course-Projects-S2023) by Mohammad Amin Yousefi
+* [**Homeworks (2023, Fall)**](https://github.com/Shahriar-0/Operating-System-Course-Projects-F2023) by Shahriar Attar
 * [**Homeworks (2023, Spring)**](https://github.com/PashaBarahimi/Computer-Architecture-Lab-Projects) by Pasha Barahimi
 * [**Homeworks (2021)**](https://github.com/kalhorghazal/ARM-Processor)
 
 ### 4. OS
 * [**Homeworks (2023, Fall)**](https://github.com/MAmin-y/Operating-System-Course-Projects) by Mohammad Amin Yousefi
+* [**Homeworks (2023, Fall)**](https://github.com/Shahriar-0/Computer-Architecture-Lab-Experiments-F2023) by Shahriar Attar
 * [**Homeworks (2022, Spring)**](https://github.com/PashaBarahimi/Operating-System-Projects) by Pasha Barahimi
 * [**Homeworks (2022, Fall)**](https://github.com/avamirm/Operating-System-Projects) by Ava Mir Mohammad Mahdi
 
@@ -253,6 +255,9 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
 
 ### 13. Digital Logical Designs Lab
 * [**Homeworks(2023, Spring)**](https://github.com/Shahriar-0/Digital-Logic-Design-Lab-Experiments-S2023) by Shahriar Attar
+
+### 14. Computer Aided Design
+* [**Homeworks(2023, Fall)**](https://github.com/Shahriar-0/Computer-Aided-Design-Course-Projects-F2024) by Shahriar Attar
 
 ### Other
 * [**ACM Summer School Blockchain & Web3 (2023)**](https://github.com/UT-ACM-Student-Chapter/Blockchain-SoC-Projects) by UT ACM Student Chapter
