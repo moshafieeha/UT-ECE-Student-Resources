@@ -167,13 +167,13 @@ If you know another valid repository, feel free to fork or <a href="mailto:m.sha
 * [**Homeworks (2024, Spring)**](https://github.com/Arhosseini77/advanced_communication) by Alireza Hosseini
 
 ### 21. System Identification - Dr. Araabi
-* [**Homeworks (2023, Spring)**](https://github.com/K-Hooshanfar/System_Identification) by Alireza Hosseini
+* [**Homeworks (2023, Spring)**](https://github.com/K-Hooshanfar/System_Identification) by Kiana Hooshanfar
 
 ### 22. Optimal Control - Dr. Yaghmaei 
-* [**Homeworks (2023, Fall)**](https://github.com/K-Hooshanfar/optimal_control_projects) by Alireza Hosseini
+* [**Homeworks (2023, Fall)**](https://github.com/K-Hooshanfar/optimal_control_projects) by Kiana Hooshanfar
 
 ### 23. Game Theory - Dr. Kebriaei 
-* [**Homeworks (2024, Spring)**](https://github.com/K-Hooshanfar/Game_theory_2024) by Alireza Hosseini
+* [**Homeworks (2024, Spring)**](https://github.com/K-Hooshanfar/Game_theory_2024) by Kiana Hooshanfar
 
 
 <br>
