@@ -19,7 +19,7 @@ Sharing your code is a win-win! Here's why:
 - **Gain Recognition**: You can showcase your work on your profile and use it as a reference.
 - **Foster Collaboration**: You can invite others to build upon your work, leading to improvements, and better solutions.
 
-If you know another valid repository, feel free to fork or <a href="mailto:m.shafieeha@gmail.com">email</a>. Let's continue to grow this repository together! 🌱
+If you know another valid repository, feel free to request or <a href="mailto:m.shafieeha@gmail.com">email</a>. Let's continue to grow this repository together! 🌱
 <br>
 <br>
 
