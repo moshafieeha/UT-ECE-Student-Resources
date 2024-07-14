@@ -12,8 +12,7 @@ We extend our heartfelt gratitude to all students who have shared their incredib
 <br>
 <br>
 
-🤝 **Why Share Your Code?**  
-Sharing your code is a win-win! Here's why:
+🤝 **Why Sharing Your Code Is a Win-Win?!**  
 
 - **Build Your Portfolio**: Open-sourcing your projects demonstrates your skills to potential opportunities.
 - **Gain Recognition**: You can showcase your work on your profile and use it as a reference.
