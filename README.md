@@ -111,6 +111,7 @@ If you know another valid repository, feel free to fork or <a href="mailto:m.sha
 ### 7. Reinforcement Learning - Dr. Majid Nili Ahmad Abadi
 * [**Homeworks (2022, Fall)**](https://github.com/m4hyarm/Reinforcement_Learning_Course_Assignments) by Mahyar Maleki
 * [**Homeworks (2022, Fall)**](https://github.com/S-razmi/RL-Course-assg)
+* [**Homeworks (2021, Fall)**](https://github.com/amirhosein-mesbah/Reinforcement_learning) by Amirhosein Mesbah
 
 ### 8. Machine Learning - Dr. A. Dehaqani, Dr. Mostafa Tavassolipour
 * [**Final Project (2023, Spring)**](https://github.com/HesamAsad/MachineLearning-Spring2023-FinalProject)
@@ -122,6 +123,7 @@ If you know another valid repository, feel free to fork or <a href="mailto:m.sha
 ### 9. Deep Learning (with applications in vision and voice) - Dr. Reshad Hosseini
 * [**Homeworks (2023, Fall)**](https://github.com/AlirezaMoseni/UT-NNDL-Course-Projects) by Alireza Mohseni
 * [**Homeworks (2022, Spring)**](https://github.com/m4hyarm/Deep_Learning_Course_Assignments) by Mahyar Maleki
+* [**Homeworks (2021, Spring)**](https://github.com/amirhosein-mesbah/Deep_Learning) by Amirhosein Mesbah
 
 ### 10. Statistical Inference - Dr. Behnam Bahrak 
 * [**Homeworks (2022, Spring)**](https://github.com/farzaneh-hatami/StatisticalInference) by Farzaneh Hatami
@@ -141,6 +143,7 @@ If you know another valid repository, feel free to fork or <a href="mailto:m.sha
 
 ### 13. Cognitive Science
 * [**Homeworks (2022, Spring)**](https://github.com/m4hyarm/Cognitive_Science_Course_Assignments) by Mahyar Maleki
+* [**Homeworks (2021, Spring)**](https://github.com/amirhosein-mesbah/NeuroScience) by Amirhosein Mesbah
 
 ### 14. Information Technology Management (ITM) - Dr. Fattaneh Taghiyareh
 * [**Homeworks (2022, Fall)**](https://github.com/varaste/Information-Technology-Management-ITM) by Arya Varaste
@@ -158,6 +161,7 @@ If you know another valid repository, feel free to fork or <a href="mailto:m.sha
 
 ### 18. Distributed Optimization and Learning
 * [**Homeworks (2023, Fall)**](https://github.com/AlirezaMoseni/UT-Distributed-Optimization-and-Learning) by Alireza Mohseni
+* [**Homeworks (2021, Fall)**](https://github.com/amirhosein-mesbah/Deep_Learning) by Amirhosein Mesbah
 
 ### 19. Blind Source Separation - Dr. Akhavan
 * [**Homeworks (2023, Spring)**](https://github.com/Arhosseini77/Blind_Source_Separation) by Alireza Hosseini
@@ -175,6 +179,8 @@ If you know another valid repository, feel free to fork or <a href="mailto:m.sha
 ### 23. Game Theory - Dr. Kebriaei 
 * [**Homeworks (2024, Spring)**](https://github.com/K-Hooshanfar/Game_theory_2024) by Kiana Hooshanfar
 
+### 24. Big Data - Dr. Dousti 
+* [**Homeworks (2021, Spring)**](https://github.com/amirhosein-mesbah/Big_Data) by Amirhosein Mesbah
 
 <br>
 
