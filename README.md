@@ -192,6 +192,7 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
 * [**Homeworks (2023, Fall)**](https://github.com/MobinaMhr/Artificial-Intelligence-Course-F2024) by Mobina Mehrazar
 * [**Homeworks (2022, Fall)**](https://github.com/avamirm/Artificial-Intelligence-Projects) by Ava Mir Mohammad Mahdi
 * [**Homeworks (2022, Fall)**](https://github.com/PashaBarahimi/Artificial-Intelligence-Projects) by Pasha Barahimi
+* [**Homeworks (2022, Fall)**](https://github.com/sina-tb/AI-Course-Projects) by Sina Tabassi
 * [**Homeworks(2021, Fall)**](https://github.com/AliAkhgari/Artificial-Intelligence-Course) by Ali Akhgari
 
 ### 2. Network Lab - Dr. Ahmad Khonsari
@@ -217,6 +218,8 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
 ### 7. Software Testing
 * [**Homeworks(2023, Fall)**](https://github.com/avamirm/Software-Testing-Course-Projects) by Ava Mir Mohammad Mahdi
 * [**Homeworks(2023, Fall)**](https://github.com/Hadi-loo/Software-Testing-Course) by Hadi Babalou
+* [**Homeworks(2023, Fall)**](https://github.com/sina-tb/Software-Testing-Course-Projects) by Sina Tabassi
+* [**Homeworks(2023, Fall)**](https://github.com/MhAghili/Software-Testing-Projects) by Mohammad Aghili
 
 ### 8. Database Lab - Reza Dehghani
 * [**Homeworks(2023, Fall)**](https://github.com/PashaBarahimi/Database-Lab-Projects) by Pasha Barahimi
@@ -224,19 +227,32 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
 ### 9. Compiler
 * [**Homeworks(2024, Spring)**](https://github.com/Shahriar-0/Programming-Languages-and-Compiler-Course-Projects-S2024) by Shahriar Attar
 * [**Homeworks(2023, Spring)**](https://github.com/PashaBarahimi/Compiler-Course-Projects) by Pasha Barahimi
+* [**Homeworks(2023, Spring)**](https://github.com/MhAghili/Compiler-Course-CAs) by Mohammad Aghili
 
 ### 10. Network - Dr. Naser Yazdani
 * [**Homeworks(2023, Spring)**](https://github.com/PashaBarahimi/Computer-Networks-Course-Projects) by Pasha Barahimi
 * [**Homeworks(2023, Spring)**](https://github.com/Hadi-loo/Computer-Networks-Course) by Hadi Babalou
+* [**Final Project(2022, Spring)**](https://github.com/Farbod-Siahkali/Computer-Networks-Project) by Farbod Siahkali
 
 ### 11. OS Lab
 * [**Homeworks(2023, Spring)**](https://github.com/Shahriar-0/Operating-System-Lab-Projects-S2024) by Shahriar Attar
 * [**Homeworks(2023, Spring)**](https://github.com/AliAkhgari/Operating-System-Course) by Ali Akhgari
+* [**Homeworks(2023, Spring)**](https://github.com/sina-tb/OS-Lab-Projects) by Sina Tabassi
 * [**Homeworks(2022, Spring)**](https://github.com/PashaBarahimi/Operating-System-Lab-Projects) by Pasha Barahimi
 
 ### 12. Advanced Progeramming
 * [**Homeworks(2022, Spring)**](https://github.com/Shahriar-0/Advanced-Programming-Course-Projects-S2022) by Shahriar Attar
 * [**Homeworks(2020, Spring)**](https://github.com/AliAkhgari/Advanced-Programming-Course) by Ali Akhgari
+* [**Content(2020, Fall)**](https://github.com/iman2693/AP98992) by Iman Kianian
+
+### 13. Digital Logical Designs
+* [**Homeworks(2022, Spring)**](https://github.com/Farbod-Siahkali/Digital-Logical-Designs-Projects) by Farbod Siahkali
+
+### 14. Engineering Probability and Statistics
+* [**Homeworks(2023, Spring)**](https://github.com/Shahriar-0/Engineering-Probability-and-Statistics-Course-Projects-F2022) by Shahriar Attar
+
+### 13. Digital Logical Designs Lab
+* [**Homeworks(2023, Spring)**](https://github.com/Shahriar-0/Digital-Logic-Design-Lab-Experiments-S2023) by Shahriar Attar
 
 ### Other
 * [**ACM Summer School Blockchain & Web3 (2023)**](https://github.com/UT-ACM-Student-Chapter/Blockchain-SoC-Projects) by UT ACM Student Chapter
