@@ -14,15 +14,15 @@ We extend our heartfelt gratitude to all students who have shared their incredib
 
 🤝 **Why Sharing Your Code Is a Win-Win?!**  
 
-- **Build Your Portfolio**: Open-sourcing your projects demonstrates your skills to potential opportunities.
-- **Gain Recognition**: You can showcase your work on your profile and use it as a reference.
-- **Foster Collaboration**: You can invite others to build upon your work, leading to improvements, and better solutions.
+- *Build Your Portfolio*: Open-sourcing your projects demonstrates your skills to potential opportunities.
+- *Gain Recognition*: You can showcase your work on your profile and use it as a reference.
+- *Foster Collaboration*: You can invite others to build upon your work, leading to improvements, and better solutions.
 
 If you know another valid repository, feel free to request or <a href="mailto:m.shafieeha@gmail.com">email</a>. Let's continue to grow this repository together! 🌱
 <br>
 <br>
 
-⭐ **Please give it a star!**
+⭐ **Please Give It a Star!**
 <p>Click the star button at the top right corner of this page. Your support is greatly appreciated!</p>
 <a href="https://github.com/yourusername/yourrepository" style="text-decoration:none;">
 <img src="https://img.shields.io/badge/Give%20a%20Star-⭐-yellow" alt="Give a Star">
