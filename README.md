@@ -48,6 +48,14 @@ If you know another valid repository, feel free to fork or <a href="mailto:m.sha
     13. [Cognitive Science](#13-cognitive-science)
     14. [Information Technology Management (ITM) - Dr. Fattaneh Taghiyareh](#14-information-technology-management-itm---dr-fattaneh-taghiyareh)
     15. [Data Analysis](#15-data-analysis)
+    16. [Advanced Optimization](#16-advanced-optimization)
+    17. [Crypto Currencies](#17-crypto-currencies)
+    18. [Distributed Optimization and Learning](#18-distributed-optimization-and-learning)
+    19. [Blind Source Separation - Dr. Akhavan](#19-blind-source-separation---dr-akhavan)
+    20. [Advanced Theory of Communication - Dr. Olfat](#20-advanced-theory-of-communication---dr-olfat)
+    21. [System Identification - Dr. Araabi](#21-system-identification---dr-araabi)
+    22. [Optimal Control - Dr. Yaghmaei](#22-optimal-control---dr-yaghmaei)
+    23. [Game Theory - Dr. Kebriaei](#23-game-theory---dr-kebriaei)
 2. [Undergraduate Courses](#undergraduate-courses)
     1. [AI - Dr. Fadaei](#1-ai---dr-fadaei)
     2. [Network Lab - Dr. Ahmad Khonsari](#2-network-lab---dr-ahmad-khonsari)
@@ -97,6 +105,7 @@ If you know another valid repository, feel free to fork or <a href="mailto:m.sha
 
 ### 6. Advanced Deep Learning - Dr. Ahmad Kalhor
 * [**Homeworks (2023, Fall)**](https://github.com/AlirezaMoseni/UT-Advanced-Deep-Learning-Course-Projects) by Alireza Mohseni
+* [**Homeworks (2023, Fall)**](https://github.com/Arhosseini77/ADDNN_2023) by Alireza Hosseini
 * [**Homeworks (2022, Fall)**](https://github.com/farzaneh-hatami/MetricLearning) by Farzaneh Hatami
 
 ### 7. Reinforcement Learning - Dr. Majid Nili Ahmad Abadi
@@ -106,6 +115,7 @@ If you know another valid repository, feel free to fork or <a href="mailto:m.sha
 ### 8. Machine Learning - Dr. A. Dehaqani, Dr. Mostafa Tavassolipour
 * [**Final Project (2023, Spring)**](https://github.com/HesamAsad/MachineLearning-Spring2023-FinalProject)
 * [**Homeworks (2023, Spring)**](https://github.com/fardinabbasi/Machine_Learning) by Fardin Abbasi
+* [**Homeworks (2023, Spring)**](https://github.com/Arhosseini77/machine_learning_2023) by Alireza Hosseini
 * [**Homeworks (2022, Fall)**](https://github.com/fatemehnadir/Machine-Learning) by Fatemeh Nadir
 * [**Homeworks (2021, Fall)**](https://github.com/iman2693/ML-UTCS-2021) by Iman Kianian
 
@@ -148,6 +158,23 @@ If you know another valid repository, feel free to fork or <a href="mailto:m.sha
 
 ### 18. Distributed Optimization and Learning
 * [**Homeworks (2023, Fall)**](https://github.com/AlirezaMoseni/UT-Distributed-Optimization-and-Learning) by Alireza Mohseni
+
+### 19. Blind Source Separation - Dr. Akhavan
+* [**Homeworks (2023, Spring)**](https://github.com/Arhosseini77/Blind_Source_Separation) by Alireza Hosseini
+* [**Final Project (2023, Spring)**](https://github.com/Arhosseini77/BSS_final_project) by Alireza Hosseini
+
+### 20. Advanced Theory of Communication - Dr. Olfat
+* [**Homeworks (2024, Spring)**](https://github.com/Arhosseini77/advanced_communication) by Alireza Hosseini
+
+### 21. System Identification - Dr. Araabi
+* [**Homeworks (2023, Spring)**](https://github.com/K-Hooshanfar/System_Identification) by Alireza Hosseini
+
+### 22. Optimal Control - Dr. Yaghmaei 
+* [**Homeworks (2023, Fall)**](https://github.com/K-Hooshanfar/optimal_control_projects) by Alireza Hosseini
+
+### 23. Game Theory - Dr. Kebriaei 
+* [**Homeworks (2024, Spring)**](https://github.com/K-Hooshanfar/Game_theory_2024) by Alireza Hosseini
+
 
 <br>
 
