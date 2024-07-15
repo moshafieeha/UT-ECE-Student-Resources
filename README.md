@@ -55,6 +55,7 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
     21. [System Identification - Dr. Araabi](#21-system-identification---dr-araabi)
     22. [Optimal Control - Dr. Yaghmaei](#22-optimal-control---dr-yaghmaei)
     23. [Game Theory - Dr. Kebriaei](#23-game-theory---dr-kebriaei)
+    24. [Big Data - Dr. Dousti](#24-big-data---dr-dousti)
 2. [Undergraduate Courses](#undergraduate-courses)
     1. [AI - Dr. Fadaei](#1-ai---dr-fadaei)
     2. [Network Lab - Dr. Ahmad Khonsari](#2-network-lab---dr-ahmad-khonsari)
@@ -68,7 +69,11 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
     10. [Network](#10-network)
     11. [OS Lab](#11-os-lab)
     12. [Advanced Programming](#12-advanced-programming)
-    13. [Other](#13-other)
+    13. [Digital Logical Designs](#13-digital-logical-designs)
+    14. [Engineering Probability and Statistics](#14-engineering-probability-and-statistics)
+    15. [Digital Logical Designs Lab](#15-digital-logical-designs-lab)
+    16. [Computer Aided Design](#16-computer-aided-design)
+    17. [Other](#13-other)
 3. [Assets](#assets)
 
 <br>
@@ -253,10 +258,10 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
 ### 14. Engineering Probability and Statistics
 * [**Homeworks(2023, Spring)**](https://github.com/Shahriar-0/Engineering-Probability-and-Statistics-Course-Projects-F2022) by Shahriar Attar
 
-### 13. Digital Logical Designs Lab
+### 15. Digital Logical Designs Lab
 * [**Homeworks(2023, Spring)**](https://github.com/Shahriar-0/Digital-Logic-Design-Lab-Experiments-S2023) by Shahriar Attar
 
-### 14. Computer Aided Design
+### 16. Computer Aided Design
 * [**Homeworks(2023, Fall)**](https://github.com/Shahriar-0/Computer-Aided-Design-Course-Projects-F2024) by Shahriar Attar
 
 ### Other
