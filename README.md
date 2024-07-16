@@ -84,9 +84,8 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
 * [**Homeworks (2024, Spring)**](https://github.com/moshafieeha/Deep-Learning-Mini-Projects) by Mohammad Shafieeha
 * [**Homeworks (2023, Spring)**](https://github.com/m4hyarm/Trustworthy_AI_Course_Assignments) by Mahyar Maleki
 * [**Homeworks (2023, Spring)**](https://github.com/farzaneh-hatami/Trustworthy-AI) by Farzaneh Hatami
-* [**Disentangling VAE Implementation**](https://github.com/farshadsangari/disentangling-vae) by Farshad Sangari
 * [**Metric Learning Implementation**](https://github.com/farshadsangari/robust_classifier) by Farshad Sangari
-* [**Saliency Map Implementation**](https://github.com/farshadsangari/saliency_map_prediction) by Farshad Sangari
+* [**Robust Classifier Implementation (2023, Spring)**](https://github.com/farshadsangari/robust_classifier) by Farshad Sangari
 * [**FGSM Adversarial Attacks**](https://github.com/ahedayat/FGSM-Adversarial-Attacks)
 
 ### [2. NLP - Dr. Hesham Faili](https://nlp-ut.github.io)
@@ -139,11 +138,16 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
 * [**Homeworks (2023, Fall)**](https://github.com/fatemehnadir/Deep-Generative-Model) by Fatemeh Nadir
 * [**Homeworks (2023, Fall)**](https://github.com/Arhosseini77/dgm_course_2023)
 * [**Homeworks (2022, Fall)**](https://github.com/niiiikou/DeepGenerativeModels)
+* [**VAE Variations Implementation (2022, Fall**](https://github.com/farshadsangari/vae_variations) by Farshad Sangari
+* [**DeepGUM Implementation (2022, Fall**](https://github.com/farshadsangari/DeepGUM) by Farshad Sangari
 
 ### 12. Neural Networks and Deep Learning - Dr. Ahmad Kalhor
 * [**Homeworks (2023, Fall)**](https://github.com/Hadi-loo/Neural-Networks-and-Deep-Learning-Course) by Hadi Babalou
 * [**Homeworks (2022, Fall)**](https://github.com/Farbod-Siahkali/Neural-Networks-and-Deep-Learning) by Farbod Siahkali
 * [**Homeworks (2021, Fall)**](https://github.com/aliizadi/neural-networks-course) by Ali Izadi
+* [**Saliency Map Implementation (2022, Spring)**](https://github.com/farshadsangari/saliency_map_prediction) by Farshad Sangari
+* [**Inverting Visual Representation Implementation (2022, Spring)**](https://github.com/farshadsangari/inverting_visual_representation) by Farshad Sangari
+* [**Brain Mri Segmentation Implementation (2022, Spring)**](https://github.com/farshadsangari/brain_mri_segmentation) by Farshad Sangari
 
 ### 13. Cognitive Science
 * [**Homeworks (2022, Spring)**](https://github.com/m4hyarm/Cognitive_Science_Course_Assignments) by Mahyar Maleki
@@ -154,8 +158,10 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
 
 ### 15. Data Analysis - Dr. Mohammad Amin Sadeghi
 * [**Homeworks (2022, Fall)**](https://github.com/sepehr-karimi/Data-Analysis-Course) by Sepehr Karimi
-* [**Homeworks (2021, Fall)**](https://github.com/aliizadi/data-analysis-course) by Ali Izadi
 * [**Homeworks (2022)**](https://github.com/yaramohamadi/2022_DataAnalytics_SummerSchool) by Yara M. Bahram
+* [**Homeworks (2021, Fall)**](https://github.com/aliizadi/data-analysis-course) by Ali Izadi
+* [**Homeworks (2021, Fall)**](https://github.com/farshadsangari/Alibaba-vs-MrBilit-tickets-) by Farshad Sangari
+* [**Homeworks (2021, Fall)**](https://github.com/farshadsangari/Covid-Analysis) by Farshad Sangari
 
 ### 16. Advanced Optimizatio
 * [**Homeworks (2021, Fall)**](https://github.com/aliizadi/advanced-optimization-course) by Ali Izadi
