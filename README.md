@@ -167,6 +167,7 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
 * [**Homeworks (2021, Fall)**](https://github.com/aliizadi/advanced-optimization-course) by Ali Izadi
 
 ### 17. Crypto Currencies
+* [**Homeworks (2024, Spring)**](https://github.com/AliHamzeh2002/Crypto-Currency-Course) by Ali Hamzehpour
 * [**Homeworks (2023, Spring)**](https://github.com/AlirezaMoseni/UT-Crypto-Currencies-Course) by Alireza Mohseni
 
 ### 18. Distributed Optimization and Learning
@@ -218,6 +219,7 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
 ### 4. OS
 * [**Homeworks (2023, Fall)**](https://github.com/MAmin-y/Operating-System-Course-Projects) by Mohammad Amin Yousefi
 * [**Homeworks (2023, Fall)**](https://github.com/Shahriar-0/Computer-Architecture-Lab-Experiments-F2023) by Shahriar Attar
+* [**Homeworks (2023, Fall)**](https://github.com/AliHamzeh2002/Operating-System) by Ali Hamzehpour
 * [**Homeworks (2022, Spring)**](https://github.com/PashaBarahimi/Operating-System-Projects) by Pasha Barahimi
 * [**Homeworks (2022, Fall)**](https://github.com/avamirm/Operating-System-Projects) by Ava Mir Mohammad Mahdi
 
@@ -226,6 +228,7 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
 
 ### 6. Computer Architecture
 * [**MIPS Processor Implementation(2022)**](https://github.com/avamirm/Computer-Architecture-Course-Projects) by Ava Mir Mohammad Mahdi
+* [**Homeworks(2023, Spring)**](https://github.com/AliHamzeh2002/Computer-Architecture) by Ali Hamzehpour
 * [**Homeworks(2022, Spring)**](https://github.com/PashaBarahimi/Computer-Architecture-Course-Projects) by Pasha Barahimi
 
 ### 7. Software Testing
@@ -248,6 +251,7 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
 * [**Final Project(2022, Spring)**](https://github.com/Farbod-Siahkali/Computer-Networks-Project) by Farbod Siahkali
 
 ### 11. OS Lab
+* [**Homeworks(2023, Spring)**](https://github.com/AliHamzeh2002/Operating-System-Lab) by Ali Hamzehpour
 * [**Homeworks(2023, Spring)**](https://github.com/Shahriar-0/Operating-System-Lab-Projects-S2024) by Shahriar Attar
 * [**Homeworks(2023, Spring)**](https://github.com/AliAkhgari/Operating-System-Course) by Ali Akhgari
 * [**Homeworks(2023, Spring)**](https://github.com/sina-tb/OS-Lab-Projects) by Sina Tabassi
@@ -255,6 +259,7 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
 
 ### 12. Advanced Progeramming
 * [**Homeworks(2022, Spring)**](https://github.com/Shahriar-0/Advanced-Programming-Course-Projects-S2022) by Shahriar Attar
+* [**Homeworks(2022, Spring)**](https://github.com/AliHamzeh2002/Advanced-Programming-Course) by Ali Hamzehpour
 * [**Homeworks(2020, Spring)**](https://github.com/AliAkhgari/Advanced-Programming-Course) by Ali Akhgari
 * [**Content(2020, Fall)**](https://github.com/iman2693/AP98992) by Iman Kianian
 
@@ -268,6 +273,7 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
 * [**Homeworks(2023, Spring)**](https://github.com/Shahriar-0/Digital-Logic-Design-Lab-Experiments-S2023) by Shahriar Attar
 
 ### 16. Computer Aided Design
+* [**Homeworks(2023, Fall)**](https://github.com/AliHamzeh2002/Computer-Aided-Design-Projects) by Ali Hamzehpour
 * [**Homeworks(2023, Fall)**](https://github.com/Shahriar-0/Computer-Aided-Design-Course-Projects-F2024) by Shahriar Attar
 
 ### Other
