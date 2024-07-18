@@ -129,6 +129,9 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
 * [**Homeworks (2023, Fall)**](https://github.com/AlirezaMoseni/UT-NNDL-Course-Projects) by Alireza Mohseni
 * [**Homeworks (2022, Spring)**](https://github.com/m4hyarm/Deep_Learning_Course_Assignments) by Mahyar Maleki
 * [**Homeworks (2021, Spring)**](https://github.com/amirhosein-mesbah/Deep_Learning) by Amirhosein Mesbah
+* [**Saliency Map Implementation (2022, Spring)**](https://github.com/farshadsangari/saliency_map_prediction) by Farshad Sangari
+* [**Inverting Visual Representation Implementation (2022, Spring)**](https://github.com/farshadsangari/inverting_visual_representation) by Farshad Sangari
+* [**Brain Mri Segmentation Implementation (2022, Spring)**](https://github.com/farshadsangari/brain_mri_segmentation) by Farshad Sangari
 
 ### 10. Statistical Inference - Dr. Behnam Bahrak 
 * [**Homeworks (2022, Spring)**](https://github.com/farzaneh-hatami/StatisticalInference) by Farzaneh Hatami
@@ -147,9 +150,6 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
 * [**Homeworks (2023, Fall)**](https://github.com/Hadi-loo/Neural-Networks-and-Deep-Learning-Course) by Hadi Babalou
 * [**Homeworks (2022, Fall)**](https://github.com/Farbod-Siahkali/Neural-Networks-and-Deep-Learning) by Farbod Siahkali
 * [**Homeworks (2021, Fall)**](https://github.com/aliizadi/neural-networks-course) by Ali Izadi
-* [**Saliency Map Implementation (2022, Spring)**](https://github.com/farshadsangari/saliency_map_prediction) by Farshad Sangari
-* [**Inverting Visual Representation Implementation (2022, Spring)**](https://github.com/farshadsangari/inverting_visual_representation) by Farshad Sangari
-* [**Brain Mri Segmentation Implementation (2022, Spring)**](https://github.com/farshadsangari/brain_mri_segmentation) by Farshad Sangari
 
 ### 13. Cognitive Science
 * [**Homeworks (2022, Spring)**](https://github.com/m4hyarm/Cognitive_Science_Course_Assignments) by Mahyar Maleki
