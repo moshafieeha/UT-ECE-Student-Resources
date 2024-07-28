@@ -173,6 +173,7 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
 * [**Homeworks (2024, Spring)**](https://github.com/AliHamzeh2002/Crypto-Currency-Course) by Ali Hamzehpour
 * [**Homeworks (2024, Spring)**](https://github.com/MobinaMhr/Cryptocurrency-Course-Projects-S2024) by Mobina Mehrazar
 * [**Homeworks (2023, Spring)**](https://github.com/AlirezaMoseni/UT-Crypto-Currencies-Course) by Alireza Mohseni
+* [**Homeworks (2023, Spring)**](https://github.com/SanaNavaei/Crypto-Currency) by Sana Navaei
 
 ### 18. Distributed Optimization and Learning
 * [**Homeworks (2023, Fall)**](https://github.com/AlirezaMoseni/UT-Distributed-Optimization-and-Learning) by Alireza Mohseni
@@ -206,6 +207,7 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
 * [**Homeworks (2024, Fall)**](https://github.com/MobinaMhr/Artificial-Intelligence-Course-F2024) by Mobina Mehrazar
 * [**Homeworks (2023, Spring)**](https://github.com/MisaghM/Artificial-Intelligence-Course-Projects) by Misagh Mohaghegh
 * [**Homeworks (2023, Spring)**](https://github.com/FabulousMatin/AI-Course) by Matin Bazrafshan
+* [**Homeworks (2023, Spring)**](https://github.com/SanaNavaei/Artificial-Intelligence) by Sana Navaei
 * [**Homeworks (2023, Spring)**](https://github.com/AliHamzeh2002/AI-Course-Projects) by Ali Hamzehpour
 * [**Homeworks (2023, Spring)**](https://github.com/Hadi-loo/Artificial-Intelligence-Course) by Hadi Babalou
 * [**Homeworks (2023, Spring)**](https://github.com/Shahriar-0/Artificial-Intelligence-Course-Projects-S2023) by Shahriar Attar
@@ -232,6 +234,8 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
 ### 4. OS
 * [**Homeworks (2024, Fall)**](https://github.com/MobinaMhr/Operating-System-ProjectsF2024) by Mobina Mehrazar
 * [**Homeworks (2024, Fall)**](https://github.com/FabulousMatin/OperatingSystems-Projects) by Matin Bazrafshan
+* [**Homeworks (2023, Spring)**](https://github.com/sina-tb/OS-Course-Projects) by Sina Tabassi
+* [**Homeworks (2023, Spring)**](https://github.com/SanaNavaei/Operating-System) by Sana Navaei
 * [**Homeworks (2023, Fall)**](https://github.com/mmd-nemati/Operating-System-Course-Projects-F2023) by Mohammad Nemati
 * [**Homeworks (2023, Fall)**](https://github.com/MAmin-y/Operating-System-Course-Projects) by Mohammad Amin Yousefi
 * [**Homeworks (2023, Fall)**](https://github.com/Shahriar-0/Computer-Architecture-Lab-Experiments-F2023) by Shahriar Attar
@@ -248,16 +252,18 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
 
 ### 6. Computer Architecture
 * [**MIPS Processor Implementation(2022)**](https://github.com/avamirm/Computer-Architecture-Course-Projects) by Ava Mir Mohammad Mahdi
+* [**Homeworks (2023, Spring)**](https://github.com/sina-tb/Computer-architecture) by Sina Tabassi
 * [**Homeworks (2023, Spring)**](https://github.com/AliHamzeh2002/Computer-Architecture) by Ali Hamzehpour
 * [**Homeworks (2023, Spring)**](https://github.com/FabulousMatin/ComputerArchitecture-Course) by Matin Bazrafshan
 * [**Homeworks (2023, Spring)**](https://github.com/MobinaMhr/Computer-Architecture-Course-Projects-S2023) by Mobina Mehrazar & Mohammad Nemati
+* [**Homeworks (2023, Spring)**](https://github.com/SanaNavaei/Computer-Architecture) by Sana Navaei
 * [**Homeworks (2022, Spring)**](https://github.com/PashaBarahimi/Computer-Architecture-Course-Projects) by Pasha Barahimi
 * [**Homeworks (2021, Spring)**](https://github.com/AmirAbaskohi/ComputerArchitectureProject) by Amirhossein Abaskohi
 
 ### 7. Software Testing
 * [**Homeworks (2024, Fall)**](https://github.com/MisaghM/Software-Testing-Course-Projects) by Misagh Mohaghegh & Pasha Barahimi
 * [**Homeworks (2023, Fall)**](https://github.com/avamirm/Software-Testing-Course-Projects) by Ava Mir Mohammad Mahdi
-* [**Homeworks (2023, Fall)**](https://github.com/Hadi-loo/Software-Testing-Course) by Hadi Babalou
+* [**Homeworks (2023, Fall)**](https://github.com/Hadi-loo/Software-Testing-Course) by Hadi Babalou & Sana Navaei
 * [**Homeworks (2023, Fall)**](https://github.com/sina-tb/Software-Testing-Course-Projects) by Sina Tabassi
 * [**Homeworks (2023, Fall)**](https://github.com/MhAghili/Software-Testing-Projects) by Mohammad Aghili
 
@@ -306,6 +312,7 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
 * [**Homeworks (2023, Spring)**](https://github.com/Shahriar-0/Digital-Logic-Design-Lab-Experiments-S2023) by Shahriar Attar
 * [**Homeworks (2023, Spring)**](https://github.com/MobinaMhr/Digital-Logic-Design-Lab-Experiments-S2023) by Mobina Mehrazar
 * [**Homeworks (2023, Spring)**](https://github.com/FabulousMatin/DLD-Lab) by Matin Bazrafshan
+* [**Homeworks (2023, Spring)**](https://github.com/SanaNavaei/Digital-Logic-Design-Lab) by Sana Navaei
 * [**Homeworks (2022, Spring)**](https://github.com/PashaBarahimi/Digital-Logic-Design-Lab-Experiments) by Pasha Barahimi & Misagh Mohaghegh
 
 ### 16. Computer Aided Design
@@ -325,6 +332,9 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
 
 ### 19. Software Engineering
 * [**Final Project (2023, Spring)**](https://github.com/MisaghM/Software-Engineering1-Course-Projects) by Misagh Mohaghegh
+
+### 20. Signal and System
+* [**Homeworks (2023, Spring)**](https://github.com/sina-tb/Signal-and-System) by Sina Tabassi
 
 ### Other
 * [**ACM Summer School Blockchain & Web3 (2023)**](https://github.com/UT-ACM-Student-Chapter/Blockchain-SoC-Projects) by UT ACM Student Chapter
