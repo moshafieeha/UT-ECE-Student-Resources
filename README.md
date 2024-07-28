@@ -8,7 +8,7 @@ We are passionate computer engineering students dedicated to *sharing and curati
 
 ✨ **Special Thanks to the Contributors!** 
 
-We extend our heartfelt gratitude to all students who have shared their incredible work. Your contributions create a more accessible education.
+We extend our gratitude to all students who have shared their incredible work. Your contributions create a more accessible education.
 <br>
 <br>
 
@@ -73,8 +73,13 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
     14. [Engineering Probability and Statistics](#14-engineering-probability-and-statistics)
     15. [Digital Logical Designs Lab](#15-digital-logical-designs-lab)
     16. [Computer Aided Design](#16-computer-aided-design)
-    17. [Other](#13-other)
+    17. [Signal Processing](#17-signal-processing)
+    18. [Internet Engineering](#18-internet-engineering)
+    19. [Software Engineering](#19-software-engineering)
+    20. [Signal and System](#20-signal-and-system)
+    21. [Other](#21-other)
 3. [Assets](#assets)
+
 
 <br>
 
