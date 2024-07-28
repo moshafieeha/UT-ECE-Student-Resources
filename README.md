@@ -90,6 +90,7 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
 
 ### [2. NLP - Dr. Hesham Faili](https://nlp-ut.github.io)
 * [**LangGraph Workshop (2024, Spring)**](https://github.com/VavRe/ut-nlp-langgraph) by Vahid Rahimzade
+* [**Homeworks (2024, Spring)**](https://github.com/SamanEN/NLP-Course-Projects) by Saman Eslami
 * [**Homeworks (2023, Spring)**](https://github.com/VavRe/nlp-ut) by Vahid Rahimzade
 * [**Homeworks (2023, Spring)**](https://github.com/fatemehnadir/Natural-Language-Processing) by Fatemeh Nadir
 * [**Homeworks (2022, Fall)**](https://github.com/sepehr-karimi/NLP_course) by Sepehr Karimi
@@ -213,6 +214,7 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
 * [**Homeworks (2022, Fall)**](https://github.com/avamirm/Artificial-Intelligence-Projects) by Ava Mir Mohammad Mahdi
 * [**Homeworks (2022, Fall)**](https://github.com/PashaBarahimi/Artificial-Intelligence-Projects) by Pasha Barahimi
 * [**Homeworks (2022, Fall)**](https://github.com/sina-tb/AI-Course-Projects) by Sina Tabassi
+* [**Homeworks (2022, Fall)**](https://github.com/SamanEN/Artificial-Intelligence-Course-Projects) by Saman Eslami
 * [**Homeworks (2021, Spring)**](https://github.com/AmirAbaskohi/Artificial-Intelligence-Projects) by Amirhossein Abaskohi
 * [**Homeworks (2021, Fall)**](https://github.com/AliAkhgari/Artificial-Intelligence-Course) by Ali Akhgari
 
@@ -237,6 +239,7 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
 * [**Homeworks (2023, Fall)**](https://github.com/mmd-nemati/Operating-System-Course-Projects-F2023) by Mohammad Nemati
 * [**Homeworks (2022, Spring)**](https://github.com/PashaBarahimi/Operating-System-Projects) by Pasha Barahimi
 * [**Homeworks (2022, Spring)**](https://github.com/MisaghM/Operating-System-Course-Projects) by Misagh Mohaghegh
+* [**Homeworks (2022, Fall)**](https://github.com/SamanEN/Operating-System-Course-Projects) by Saman Eslami
 * [**Homeworks (2022, Fall)**](https://github.com/avamirm/Operating-System-Projects) by Ava Mir Mohammad Mahdi
 * [**Homeworks (2021, Spring)**](https://github.com/AmirAbaskohi/Operating-System-Course-Projects) by Amirhossein Abaskohi
 
@@ -268,6 +271,7 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
 * [**Homeworks (2023, Spring)**](https://github.com/MisaghM/Compiler-Course-Projects) by Misagh Mohaghegh
 * [**Homeworks (2023, Spring)**](https://github.com/PashaBarahimi/Compiler-Course-Projects) by Pasha Barahimi
 * [**Homeworks (2023, Spring)**](https://github.com/MhAghili/Compiler-Course-CAs) by Mohammad Aghili
+* [**Project (2023, Spring)**](https://github.com/SamanEN/LogicPL-Compiler) by Saman Eslami
 * [**Homeworks (2023, Fall)**](  https://github.com/mmd-nemati/Compiler-Course-Projects-F2023) by Mohammad Nemati
 
 ### 10. Network - Dr. Naser Yazdani
