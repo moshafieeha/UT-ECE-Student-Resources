@@ -224,6 +224,7 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
 * [**Homeworks (2022, Fall)**](https://github.com/SamanEN/Artificial-Intelligence-Course-Projects) by Saman Eslami
 * [**Homeworks (2021, Spring)**](https://github.com/AmirAbaskohi/Artificial-Intelligence-Projects) by Amirhossein Abaskohi
 * [**Homeworks (2021, Spring)**](https://github.com/daneshvar-amrollahi/Artificial-Intelligence) by Daneshvar Amrollahi
+* [**Homeworks (2021, Spring)**](https://github.com/aminst/artificial-intelligence-projects) by Amin Setayesh
 * [**Homeworks (2021, Fall)**](https://github.com/AliAkhgari/Artificial-Intelligence-Course) by Ali Akhgari
 
 ### 2. Network Lab - Dr. Ahmad Khonsari
@@ -253,6 +254,7 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
 * [**Homeworks (2022, Fall)**](https://github.com/avamirm/Operating-System-Projects) by Ava Mir Mohammad Mahdi
 * [**Homeworks (2021, Spring)**](https://github.com/daneshvar-amrollahi/Operating-Systems) by Daneshvar Amrollahi
 * [**Homeworks (2021, Spring)**](https://github.com/AmirAbaskohi/Operating-System-Course-Projects) by Amirhossein Abaskohi
+* [**Homeworks (2021, Spring)**](https://github.com/aminst/operating-systems-projects) by Amin Setayesh
 
 ### 5. Cyber Physical Systems 
 * [**Smart Flower Pot Implementation(2023, Spring)**](https://github.com/Theparia/Arduino-Smart-Flower-Pot)
