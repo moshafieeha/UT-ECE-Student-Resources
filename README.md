@@ -89,8 +89,8 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
 * [**Homeworks (2024, Spring)**](https://github.com/moshafieeha/Deep-Learning-Mini-Projects) by Mohammad Shafieeha
 * [**Homeworks (2023, Spring)**](https://github.com/m4hyarm/Trustworthy_AI_Course_Assignments) by Mahyar Maleki
 * [**Homeworks (2023, Spring)**](https://github.com/farzaneh-hatami/Trustworthy-AI) by Farzaneh Hatami
-* [**Metric Learning Implementation**](https://github.com/farshadsangari/robust_classifier) by Farshad Sangari
 * [**Robust Classifier Implementation (2023, Spring)**](https://github.com/farshadsangari/robust_classifier) by Farshad Sangari
+* [**Metric Learning Implementation**](https://github.com/farshadsangari/robust_classifier) by Farshad Sangari
 * [**FGSM Adversarial Attacks**](https://github.com/ahedayat/FGSM-Adversarial-Attacks)
 
 ### [2. NLP - Dr. Hesham Faili](https://nlp-ut.github.io)
@@ -134,15 +134,15 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
 ### 9. Deep Learning (with applications in vision and voice) - Dr. Reshad Hosseini
 * [**Homeworks (2023, Fall)**](https://github.com/AlirezaMoseni/UT-NNDL-Course-Projects) by Alireza Mohseni
 * [**Homeworks (2022, Spring)**](https://github.com/m4hyarm/Deep_Learning_Course_Assignments) by Mahyar Maleki
-* [**Homeworks (2021, Spring)**](https://github.com/amirhosein-mesbah/Deep_Learning) by Amirhosein Mesbah
 * [**Saliency Map Implementation (2022, Spring)**](https://github.com/farshadsangari/saliency_map_prediction) by Farshad Sangari
 * [**Inverting Visual Representation Implementation (2022, Spring)**](https://github.com/farshadsangari/inverting_visual_representation) by Farshad Sangari
 * [**Brain Mri Segmentation Implementation (2022, Spring)**](https://github.com/farshadsangari/brain_mri_segmentation) by Farshad Sangari
+* [**Homeworks (2021, Spring)**](https://github.com/amirhosein-mesbah/Deep_Learning) by Amirhosein Mesbah
 
 ### 10. Statistical Inference - Dr. Behnam Bahrak 
 * [**Homeworks (2022, Spring)**](https://github.com/farzaneh-hatami/StatisticalInference) by Farzaneh Hatami
-* [**Homeworks (2021, Spring)**](https://github.com/aliizadi/statistical-inference-course) by Ali Izadi
 * [**Homeworks (2022, Fall)**](https://github.com/fatemehnadir/Statistical-Inference) by Fatemeh Nadir
+* [**Homeworks (2021, Spring)**](https://github.com/aliizadi/statistical-inference-course) by Ali Izadi
 * [**Homeworks (2021, Fall)**](https://github.com/niiiikou/Statistical-Inference)
 
 ### 11. Deep Generative Model - Dr. Mostafa Tavassolipour
