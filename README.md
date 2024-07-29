@@ -223,6 +223,7 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
 * [**Homeworks (2022, Fall)**](https://github.com/sina-tb/AI-Course-Projects) by Sina Tabassi
 * [**Homeworks (2022, Fall)**](https://github.com/SamanEN/Artificial-Intelligence-Course-Projects) by Saman Eslami
 * [**Homeworks (2021, Spring)**](https://github.com/AmirAbaskohi/Artificial-Intelligence-Projects) by Amirhossein Abaskohi
+* [**Homeworks (2021, Spring)**](https://github.com/daneshvar-amrollahi/Artificial-Intelligence) by Daneshvar Amrollahi
 * [**Homeworks (2021, Fall)**](https://github.com/AliAkhgari/Artificial-Intelligence-Course) by Ali Akhgari
 
 ### 2. Network Lab - Dr. Ahmad Khonsari
@@ -250,6 +251,7 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
 * [**Homeworks (2022, Spring)**](https://github.com/MisaghM/Operating-System-Course-Projects) by Misagh Mohaghegh
 * [**Homeworks (2022, Fall)**](https://github.com/SamanEN/Operating-System-Course-Projects) by Saman Eslami
 * [**Homeworks (2022, Fall)**](https://github.com/avamirm/Operating-System-Projects) by Ava Mir Mohammad Mahdi
+* [**Homeworks (2021, Spring)**](https://github.com/daneshvar-amrollahi/Operating-Systems) by Daneshvar Amrollahi
 * [**Homeworks (2021, Spring)**](https://github.com/AmirAbaskohi/Operating-System-Course-Projects) by Amirhossein Abaskohi
 
 ### 5. Cyber Physical Systems 
@@ -264,6 +266,7 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
 * [**Homeworks (2023, Spring)**](https://github.com/SanaNavaei/Computer-Architecture) by Sana Navaei
 * [**Homeworks (2022, Spring)**](https://github.com/PashaBarahimi/Computer-Architecture-Course-Projects) by Pasha Barahimi
 * [**Homeworks (2021, Spring)**](https://github.com/AmirAbaskohi/ComputerArchitectureProject) by Amirhossein Abaskohi
+* [**Homeworks (2020, Fall)**](https://github.com/daneshvar-amrollahi/Computer-Architecture-Course-Projects) by Daneshvar Amrollahi
 
 ### 7. Software Testing
 * [**Homeworks (2024, Fall)**](https://github.com/MisaghM/Software-Testing-Course-Projects) by Misagh Mohaghegh & Pasha Barahimi
@@ -291,6 +294,7 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
 * [**Homeworks(2023, Spring)**](https://github.com/sina-tb/Computer-Networks-Course-Projects) by Sina Tabassi
 * [**Final Project(2022, Spring)**](https://github.com/Farbod-Siahkali/Computer-Networks-Project) by Farbod Siahkali
 * [**Homeworks(2021, Spring)**](https://github.com/AmirAbaskohi/Computer-Network-Projects) by Amirhossein Abaskohi
+* [**Homeworks(2021, Spring)**](https://github.com/daneshvar-amrollahi/Computer-Networks) by Daneshvar Amrollahi
 
 ### 11. OS Lab
 * [**Homeworks(2023, Spring)**](https://github.com/AliHamzeh2002/Operating-System-Lab) by Ali Hamzehpour
@@ -298,6 +302,7 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
 * [**Homeworks(2023, Spring)**](https://github.com/AliAkhgari/Operating-System-Course) by Ali Akhgari
 * [**Homeworks(2023, Spring)**](https://github.com/sina-tb/OS-Lab-Projects) by Sina Tabassi
 * [**Homeworks(2022, Spring)**](https://github.com/PashaBarahimi/Operating-System-Lab-Projects) by Saman Eslami & Pasha Barahimi & Misagh Mohaghegh
+* [**XV6 OS(2021, Spring)**](https://github.com/daneshvar-amrollahi/os-lab-xv6) by Daneshvar Amrollahi & Amin Setayesh & Alireza Tavakoli
 
 ### 12. Advanced Progeramming
 * [**Homeworks(2023, Spring)**](https://github.com/FabulousMatin/AP-Course) by Matin Bazrafshan
@@ -309,6 +314,7 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
 
 ### 13. Digital Logical Designs
 * [**Homeworks(2022, Spring)**](https://github.com/Farbod-Siahkali/Digital-Logical-Designs-Projects) by Farbod Siahkali
+* [**Homeworks(2020, Fall)**](https://github.com/daneshvar-amrollahi/Digital-Logic-Design-Lab) by Daneshvar Amrollahi
 
 ### 14. Engineering Probability and Statistics
 * [**Homeworks(2023, Spring)**](https://github.com/Shahriar-0/Engineering-Probability-and-Statistics-Course-Projects-F2022) by Shahriar Attar
