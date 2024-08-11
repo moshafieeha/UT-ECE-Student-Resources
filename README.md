@@ -156,6 +156,7 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
 * [**Homeworks (2023, Fall)**](https://github.com/Hadi-loo/Neural-Networks-and-Deep-Learning-Course) by Hadi Babalou
 * [**Homeworks (2022, Fall)**](https://github.com/Farbod-Siahkali/Neural-Networks-and-Deep-Learning) by Farbod Siahkali
 * [**Homeworks (2021, Fall)**](https://github.com/aliizadi/neural-networks-course) by Ali Izadi
+* [**Summer School (2022)**](https://github.com/HooshBaaz/2022_DataAnalytics_SummerSchool) by HooshBaaz
 
 ### 13. Cognitive Science
 * [**Homeworks (2022, Spring)**](https://github.com/m4hyarm/Cognitive_Science_Course_Assignments) by Mahyar Maleki
