@@ -119,6 +119,8 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
 * [**Homeworks (2022, Fall)**](https://github.com/farzaneh-hatami/MetricLearning) by Farzaneh Hatami
 
 ### 7. Reinforcement Learning - Dr. Majid Nili Ahmad Abadi
+* [**Homeworks (2023, Fall)**](https://github.com/fardinabbasi/Deep_RL) by Fardin Abbasi
+* [**Homeworks (Part 2) (2023, Fall)**](https://github.com/fardinabbasi/Tabulated_RL) by Fardin Abbasi
 * [**Homeworks (2022, Fall)**](https://github.com/m4hyarm/Reinforcement_Learning_Course_Assignments) by Mahyar Maleki
 * [**Homeworks (2022, Fall)**](https://github.com/S-razmi/RL-Course-assg)
 * [**Homeworks (2021, Fall)**](https://github.com/amirhosein-mesbah/Reinforcement_learning) by Amirhosein Mesbah
@@ -349,6 +351,12 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
 
 ### 20. Signal and System
 * [**Homeworks (2023, Spring)**](https://github.com/sina-tb/Signal-and-System) by Sina Tabassi
+
+### 21. Advanced Control (Modern Control) - Dr. Kebriaei
+* [**Final Project (2023, Fall)**](https://github.com/fardinabbasi/Ball_and_Beam_Control_System) by Fardin Abbasi
+
+### 22. Operational Research - Dr. Ramezani Moghaddam
+* [**Final Project (2023, Fall)**](https://github.com/fardinabbasi/Linear_Programming) by Fardin Abbasi
 
 ### Other
 * [**ACM Summer School Blockchain & Web3 (2023)**](https://github.com/UT-ACM-Student-Chapter/Blockchain-SoC-Projects) by UT ACM Student Chapter
