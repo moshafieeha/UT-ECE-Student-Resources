@@ -1,3 +1,7 @@
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://github.com/moshafieeha/UT-ECE-Student-Resources/graphs/commit-activity)
+![PR Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)
+![Last Commit](https://img.shields.io/github/last-commit/moshafieeha/UT-ECE-Student-Resources)
+
 # UT-ECE-Student-Resources
 
 🎓 **Welcome to the University of Tehran's CE Student Resources Repository!**
@@ -24,7 +28,7 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
 
 ⭐ **Please Give It a Star!**
 <p>Click the star button at the top right corner of this page. Your support is greatly appreciated!</p>
-<a href="https://github.com/yourusername/yourrepository" style="text-decoration:none;">
+<a href="https://github.com/moshafieeha/UT-ECE-Student-Resources" style="text-decoration:none;">
 <img src="https://img.shields.io/badge/Give%20a%20Star-⭐-yellow" alt="Give a Star">
 </a>
 <br>
