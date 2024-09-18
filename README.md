@@ -224,6 +224,7 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
 * [**Homeworks (2023, Spring)**](https://github.com/Hadi-loo/Artificial-Intelligence-Course) by Hadi Babalou
 * [**Homeworks (2023, Spring)**](https://github.com/Shahriar-0/Artificial-Intelligence-Course-Projects-S2023) by Shahriar Attar
 * [**Homeworks (2023, Spring)**](https://github.com/MhAghili/Artificial-Intelligence-Projects) by Mohammad Aghili
+* [**Homeworks (2023, Fall)**](https://github.com/Farbod-Siahkali/Artificial-Intelligence) by Farbod Siahkali
 * [**Homeworks (2023, Fall)**](https://github.com/MobinaMhr/Artificial-Intelligence-Course-F2024) by Mobina Mehrazar
 * [**Homeworks (2022, Fall)**](https://github.com/avamirm/Artificial-Intelligence-Projects) by Ava Mir Mohammad Mahdi
 * [**Homeworks (2022, Fall)**](https://github.com/PashaBarahimi/Artificial-Intelligence-Projects) by Pasha Barahimi
@@ -274,6 +275,7 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
 * [**Homeworks (2023, Spring)**](https://github.com/MobinaMhr/Computer-Architecture-Course-Projects-S2023) by Mobina Mehrazar & Mohammad Nemati
 * [**Homeworks (2023, Spring)**](https://github.com/SanaNavaei/Computer-Architecture) by Sana Navaei
 * [**Homeworks (2022, Spring)**](https://github.com/PashaBarahimi/Computer-Architecture-Course-Projects) by Pasha Barahimi
+* [**Homeworks (2022, Fall)**](https://github.com/Farbod-Siahkali/Computer-Architecture-Projects) by Farbod Siahkali
 * [**Homeworks (2021, Spring)**](https://github.com/AmirAbaskohi/ComputerArchitectureProject) by Amirhossein Abaskohi
 * [**Homeworks (2020, Fall)**](https://github.com/daneshvar-amrollahi/Computer-Architecture-Course-Projects) by Daneshvar Amrollahi
 
@@ -361,6 +363,9 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
 
 ### 22. Operational Research - Dr. Ramezani Moghaddam
 * [**Final Project (2023, Fall)**](https://github.com/fardinabbasi/Linear_Programming) by Fardin Abbasi
+
+### 23. Digital Control Lab
+* [**Final Project (2023, Fall)**](https://github.com/Farbod-Siahkali/Digital-Control-Lab-S2-G5) by Farbod Siahkali
 
 ### Other
 * [**ACM Summer School Blockchain & Web3 (2023)**](https://github.com/UT-ACM-Student-Chapter/Blockchain-SoC-Projects) by UT ACM Student Chapter
