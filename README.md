@@ -130,6 +130,7 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
 * [**Homeworks (2021, Fall)**](https://github.com/amirhosein-mesbah/Reinforcement_learning) by Amirhosein Mesbah
 
 ### 8. Machine Learning - Dr. A. Dehaqani, Dr. Mostafa Tavassolipour
+* [**Final project (2024, Spring)**](https://github.com/MehdiJmlkh/Machine-Learning-Course-Project-S2024) by Mehdi Jamalikh
 * [**Final Project (2023, Spring)**](https://github.com/HesamAsad/MachineLearning-Spring2023-FinalProject)
 * [**Homeworks (2023, Spring)**](https://github.com/fardinabbasi/Machine_Learning) by Fardin Abbasi
 * [**Homeworks (2023, Spring)**](https://github.com/Arhosseini77/machine_learning_2023) by Alireza Hosseini
@@ -189,6 +190,7 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
 * [**Homeworks (2023, Spring)**](https://github.com/SanaNavaei/Crypto-Currency) by Sana Navaei
 
 ### 18. Distributed Optimization and Learning
+* [**Homeworks (2024, Spring)**](https://github.com/sina-tb/Distributed-Systems-Course-Projects) by Sina Tabassi
 * [**Homeworks (2023, Fall)**](https://github.com/AlirezaMoseni/UT-Distributed-Optimization-and-Learning) by Alireza Mohseni
 * [**Homeworks (2021, Fall)**](https://github.com/amirhosein-mesbah/Deep_Learning) by Amirhosein Mesbah
 
@@ -210,6 +212,9 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
 
 ### 24. Big Data - Dr. Dousti 
 * [**Homeworks (2021, Spring)**](https://github.com/amirhosein-mesbah/Big_Data) by Amirhosein Mesbah
+
+### 25. Complex Networks
+
 
 <br>
 
@@ -367,6 +372,7 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
 
 ### 23. Digital Control Lab
 * [**Final Project (2023, Fall)**](https://github.com/Farbod-Siahkali/Digital-Control-Lab-S2-G5) by Farbod Siahkali
+
 
 ### Other
 * [**ACM Summer School Blockchain & Web3 (2023)**](https://github.com/UT-ACM-Student-Chapter/Blockchain-SoC-Projects) by UT ACM Student Chapter
