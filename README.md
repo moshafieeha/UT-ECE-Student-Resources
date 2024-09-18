@@ -159,6 +159,7 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
 * [**DeepGUM Implementation (2022, Fall**](https://github.com/farshadsangari/DeepGUM) by Farshad Sangari
 
 ### 12. Neural Networks and Deep Learning - Dr. Ahmad Kalhor
+* [**Homeworks (2024, Spring)**](https://github.com/Shahriar-0/Neural-Networks-and-Deep-Learning-Course-Projects-S2024) by Shahriar Attar & Matin Bazrafshan
 * [**Homeworks (2023, Fall)**](https://github.com/Hadi-loo/Neural-Networks-and-Deep-Learning-Course) by Hadi Babalou
 * [**Homeworks (2022, Fall)**](https://github.com/Farbod-Siahkali/Neural-Networks-and-Deep-Learning) by Farbod Siahkali
 * [**Homeworks (2021, Fall)**](https://github.com/aliizadi/neural-networks-course) by Ali Izadi
@@ -178,7 +179,7 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
 * [**Homeworks (2021, Fall)**](https://github.com/farshadsangari/Covid-Analysis) by Farshad Sangari
 * [**Summer School (2022)**](https://github.com/HooshBaaz/2022_DataAnalytics_SummerSchool) by HooshBaaz
 
-### 16. Advanced Optimizatio
+### 16. Advanced Optimization
 * [**Homeworks (2021, Fall)**](https://github.com/aliizadi/advanced-optimization-course) by Ali Izadi
 
 ### 17. Crypto Currencies
