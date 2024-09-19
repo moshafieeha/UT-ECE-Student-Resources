@@ -15,16 +15,14 @@ Thank you for considering contributing to our repository! Here are some guidelin
 - Follow the style of the project.
 - Write clear and concise commit messages.
 - Provide a detailed description of your changes in the pull request.
-- Ensure that your changes do not introduce new warnings or errors.
 
-
-## Example Process for Contributors**:
+## Example Process for Contributors:
 
 1. **Fork the Repository**: Fork the repository to your own GitHub account.
 2. **Clone the Fork**: Clone your forked repository to your local machine.
     ```bash
-    git clone https://github.com/yourusername/repository-name.git
-    cd repository-name
+    git clone https://github.com/moshafieeha/UT-ECE-Student-Resources.git
+    cd UT-ECE-Student-Resources
     ```
 3. **Create a New Branch**: Create a new branch for the feature or fix.
     ```bash
