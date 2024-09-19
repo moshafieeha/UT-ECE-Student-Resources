@@ -222,7 +222,8 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
 
 ## Undergraduate Courses
 
-### 1. AI - Dr.Fadaei
+### 1. AI - Dr. Fadaei & Dr. Yaghoobzadeh
+* [**Homeworks (2024, Spring)**](https://github.com/notarealone/UT_AI-Spring2024) by Alireza Hosseini
 * [**Homeworks (2024, Spring)**](https://github.com/mmd-nemati/Artificial-Intelligence-Course-Projects-S2024) by Mohammad Nemati
 * [**Homeworks (2024, Fall)**](https://github.com/MobinaMhr/Artificial-Intelligence-Course-F2024) by Mobina Mehrazar
 * [**Homeworks (2023, Spring)**](https://github.com/MisaghM/Artificial-Intelligence-Course-Projects) by Misagh Mohaghegh
@@ -263,6 +264,7 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
 * [**Homeworks (2023, Fall)**](https://github.com/MAmin-y/Operating-System-Course-Projects) by Mohammad Amin Yousefi
 * [**Homeworks (2023, Fall)**](https://github.com/Shahriar-0/Computer-Architecture-Lab-Experiments-F2023) by Shahriar Attar
 * [**Homeworks (2023, Fall)**](https://github.com/AliHamzeh2002/Operating-System) by Ali Hamzehpour
+* [**Homeworks (2023, Fall)**](https://github.com/notarealone/UT_OS-Fall2023) by Alireza Hosseini
 * [**Homeworks (2023, Fall)**](https://github.com/mmd-nemati/Operating-System-Course-Projects-F2023) by Mohammad Nemati
 * [**Homeworks (2022, Spring)**](https://github.com/PashaBarahimi/Operating-System-Projects) by Pasha Barahimi
 * [**Homeworks (2022, Spring)**](https://github.com/MisaghM/Operating-System-Course-Projects) by Misagh Mohaghegh
