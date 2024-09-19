@@ -93,6 +93,7 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
 * [**Homeworks (2024, Spring)**](https://github.com/moshafieeha/Deep-Learning-Mini-Projects) by Mohammad Shafieeha
 * [**Homeworks (2023, Spring)**](https://github.com/m4hyarm/Trustworthy_AI_Course_Assignments) by Mahyar Maleki
 * [**Homeworks (2023, Spring)**](https://github.com/farzaneh-hatami/Trustworthy-AI) by Farzaneh Hatami
+* [**Homeworks (2023, Spring)**](https://github.com/MohammadJRanjbar/Interpretable-Artificial-Intelligence-course) by Mohammad Ranjbar
 * [**Robust Classifier Implementation (2023, Spring)**](https://github.com/farshadsangari/robust_classifier) by Farshad Sangari
 * [**Metric Learning Implementation**](https://github.com/farshadsangari/robust_classifier) by Farshad Sangari
 * [**FGSM Adversarial Attacks**](https://github.com/ahedayat/FGSM-Adversarial-Attacks)
@@ -161,6 +162,7 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
 
 ### 12. Neural Networks and Deep Learning - Dr. Ahmad Kalhor
 * [**Homeworks (2024, Spring)**](https://github.com/Shahriar-0/Neural-Networks-and-Deep-Learning-Course-Projects-S2024) by Shahriar Attar & Matin Bazrafshan
+* [**Homeworks (2023, Fall)**](https://github.com/MohammadJRanjbar/Deep-Learning-Course) by Mohammad Ranjbar
 * [**Homeworks (2023, Fall)**](https://github.com/Hadi-loo/Neural-Networks-and-Deep-Learning-Course) by Hadi Babalou
 * [**Homeworks (2022, Fall)**](https://github.com/Farbod-Siahkali/Neural-Networks-and-Deep-Learning) by Farbod Siahkali
 * [**Homeworks (2021, Fall)**](https://github.com/aliizadi/neural-networks-course) by Ali Izadi
