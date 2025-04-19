@@ -26,8 +26,6 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
 <br>
 <br>
 
-[![Give a Star](https://img.shields.io/badge/Give%20a%20Star-⭐-yellow)](https://github.com/moshafieeha/UT-ECE-Student-Resources)
-
 
 ⭐ **Please Give It a Star!**
 <p>Click the star button at the top right corner of this page. Your support is greatly appreciated!</p>
