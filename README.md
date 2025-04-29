@@ -112,7 +112,7 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
 * [**LangGraph Workshop (2024, Spring)**](https://github.com/VavRe/ut-nlp-langgraph) by Vahid Rahimzade
 * [**Homeworks (2024, Spring)**](https://github.com/SamanEN/NLP-Course-Projects) by Saman Eslami
 * [**Homeworks (2023, Spring)**](https://github.com/VavRe/nlp-ut) by Vahid Rahimzade
-* [**Homeworks (2023, Spring)**](https://github.com/fatemehnadir/Natural-Language-Processing) by Fatemeh Nadir
+* [**Homeworks (2023, Spring)**](https://github.com/fatemehnadir/Natural-Language-Processing) by Fatemeh Nadi
 * [**Homeworks (2022, Fall)**](https://github.com/sepehr-karimi/NLP_course) by Sepehr Karimi
 * [**Homeworks (2022, Spring)**](https://github.com/AmirAbaskohi/FMNLP-Course-Projects) by Amirhossein Abaskohi
 
@@ -145,7 +145,7 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
 * [**Final Project (2023, Spring)**](https://github.com/HesamAsad/MachineLearning-Spring2023-FinalProject)
 * [**Homeworks (2023, Spring)**](https://github.com/fardinabbasi/Machine_Learning) by Fardin Abbasi
 * [**Homeworks (2023, Spring)**](https://github.com/Arhosseini77/machine_learning_2023) by Alireza Hosseini
-* [**Homeworks (2022, Fall)**](https://github.com/fatemehnadir/Machine-Learning) by Fatemeh Nadir
+* [**Homeworks (2022, Fall)**](https://github.com/fatemehnadir/Machine-Learning) by Fatemeh Nadi
 * [**Homeworks (2022, Fall)**](https://github.com/AmirAbaskohi/Machine-Learning-Course-Homeworks) by Amirhossein Abaskohi
 * [**Homeworks (2021, Fall)**](https://github.com/iman2693/ML-UTCS-2021) by Iman Kianian
 
@@ -159,12 +159,12 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
 
 ### 10. Statistical Inference - Dr. Behnam Bahrak 
 * [**Homeworks (2022, Spring)**](https://github.com/farzaneh-hatami/StatisticalInference) by Farzaneh Hatami
-* [**Homeworks (2022, Fall)**](https://github.com/fatemehnadir/Statistical-Inference) by Fatemeh Nadir
+* [**Homeworks (2022, Fall)**](https://github.com/fatemehnadir/Statistical-Inference) by Fatemeh Nadi
 * [**Homeworks (2021, Spring)**](https://github.com/aliizadi/statistical-inference-course) by Ali Izadi
 * [**Homeworks (2021, Fall)**](https://github.com/niiiikou/Statistical-Inference)
 
 ### 11. Deep Generative Model - Dr. Mostafa Tavassolipour
-* [**Homeworks (2023, Fall)**](https://github.com/fatemehnadir/Deep-Generative-Model) by Fatemeh Nadir
+* [**Homeworks (2023, Fall)**](https://github.com/fatemehnadir/Deep-Generative-Model) by Fatemeh Nadi
 * [**Homeworks (2023, Fall)**](https://github.com/Arhosseini77/dgm_course_2023)
 * [**Homeworks (2022, Fall)**](https://github.com/niiiikou/DeepGenerativeModels)
 * [**VAE Variations Implementation (2022, Fall**](https://github.com/farshadsangari/vae_variations) by Farshad Sangari
