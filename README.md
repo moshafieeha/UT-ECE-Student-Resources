@@ -86,8 +86,8 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
     22. [Operational Research](#22-operational-research)
     23. [Digital Control Lab](#23-digital-control-lab)
     24. [Digital Control Systems](#24-digital-control-systems)
-    25. [Industrial Automation](#25-industrial-automation---dr-abbasian)
-    26. [Linear Algebra](#26-linear-algebra---dr-sarafraaz)
+    25. [Industrial Automation - Dr. Abbasian](#25-industrial-automation---dr-abbasian)
+    26. [Linear Algebra - Dr. Sarafraaz](#26-linear-algebra---dr-sarafraaz)
     27. [Other](#other)
     
 3. [Assets](#assets)
