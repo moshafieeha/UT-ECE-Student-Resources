@@ -83,6 +83,7 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
     19. [Software Engineering](#19-software-engineering)
     20. [Signal and System](#20-signal-and-system)
     21. [Other](#21-other)
+    
 3. [Assets](#assets)
 
 
@@ -377,6 +378,16 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
 
 ### 23. Digital Control Lab
 * [**Final Project (2023, Fall)**](https://github.com/Farbod-Siahkali/Digital-Control-Lab-S2-G5) by Farbod Siahkali
+
+### 24. Digital Control Systems - Dr. Yaghmaei
+* [**Final Project (2024, Spring)**](https://github.com/m4skari/DigitalControlSystemsProject) by Mohammad Askari
+
+### 25. Industrial Automation - Dr. Abbasian
+* [**Final Project (2024, Fall)**](https://github.com/m4skari/Water-Treatment-Automation) by Mohammad Askari
+
+### 26. Linear Algebra - Dr. Sarafraaz
+* [**Final Project (2024, Spring)**](https://github.com/m4skari/linear-algebra-project-NLP-) by Mohammad Askari
+
 
 
 ### Other
