@@ -61,6 +61,7 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
     22. [Optimal Control - Dr. Yaghmaei](#22-optimal-control---dr-yaghmaei)
     23. [Game Theory - Dr. Kebriaei](#23-game-theory---dr-kebriaei)
     24. [Big Data - Dr. Dousti](#24-big-data---dr-dousti)
+    25. [Biological Accounting - Dr. Masoud Asadpour](#25-biological-accounting---Dr-masoud-asadpour)
 2. [Undergraduate Courses](#undergraduate-courses)
     1. [AI - Dr. Fadaei](#1-ai---dr-fadaei)
     2. [Network Lab - Dr. Ahmad Khonsari](#2-network-lab---dr-ahmad-khonsari)
@@ -225,6 +226,9 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
 
 ### 25. Complex Networks
 * [**Homeworks (2024, Spring)**](https://github.com/SM2A/Complex_Networks_Course_Project) by Seyed Mohammad Amin Atyabi
+
+### 26. Biological Accounting - Dr. Masoud Asadpour
+* [**Final Project (2024, Spring)**](https://github.com/yasamanhbn/CPG-controller-with-GA-optimization) by Yasaman Haghbin
 
 <br>
 
