@@ -82,7 +82,13 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
     18. [Internet Engineering](#18-internet-engineering)
     19. [Software Engineering](#19-software-engineering)
     20. [Signal and System](#20-signal-and-system)
-    21. [Other](#21-other)
+    21. [Advanced Control (Modern Control)](#21-advanced-control-modern-control)
+    22. [Operational Research](#22-operational-research)
+    23. [Digital Control Lab](#23-digital-control-lab)
+    24. [Digital Control Systems](#24-digital-control-systems)
+    25. [Industrial Automation](#25-industrial-automation)
+    26. [Linear Algebra](#26-linear-algebra)
+    27. [Other](#27-other)
     
 3. [Assets](#assets)
 
