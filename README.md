@@ -86,9 +86,9 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
     22. [Operational Research](#22-operational-research)
     23. [Digital Control Lab](#23-digital-control-lab)
     24. [Digital Control Systems](#24-digital-control-systems)
-    25. [Industrial Automation](#25-industrial-automation)
-    26. [Linear Algebra](#26-linear-algebra)
-    27. [Other](#27-other)
+    25. [Industrial Automation](#25-industrial-automation---dr-abbasian)
+    26. [Linear Algebra](#26-linear-algebra---dr-sarafraaz)
+    27. [Other](#other)
     
 3. [Assets](#assets)
 
@@ -118,11 +118,11 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
 * [**Homeworks (2023, Spring)**](https://github.com/VavRe/data-mining-ut) by Vahid Rahimzade
 * [**Homeworks (2018, Spring)**](https://github.com/aliizadi/Data-Mining-Course) by Ali Izadi
 
-### 4. Information Retrieavl  - Dr. Azade Shakeri
+### 4. Information Retrieval  - Dr. Azade Shakeri
 * [**Homeworks (2022, Fall)**](https://github.com/VavRe/data-mining-ut) by Vahid Rahimzade
 * [**Homeworks (2021, Fall)**](https://github.com/mamathew98/Intelligent-Information-Retrieval-Projects) by Mohammad Naseri
 
-### 5. Socila Network - Dr. Masoud Asadpour
+### 5. Social Network - Dr. Masoud Asadpour
 * [**Homeworks (2022, Fall)**](https://github.com/VavRe/social-networks-ut) by Vahid Rahimzade
 * [**Homeworks (2022, Fall)**](https://github.com/S-razmi/social_network_assg)
 
