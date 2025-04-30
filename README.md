@@ -4,9 +4,9 @@
 
 # UT-ECE-Student-Resources
 
-🎓 **Welcome to the University of Tehran's CE Student Resources Repository!**
+🎓 **Welcome to the University of Tehran's Student Resources Repository!**
 
-We are passionate computer engineering students dedicated to *sharing and curating valuable resources* from our studies. Our goal is to support future students and academic community.
+We are passionate students dedicated to *sharing and curating valuable resources* from our studies. Our goal is to support students and academic community.
 <br>
 <br>
 
@@ -19,8 +19,8 @@ We extend our gratitude to all students who have shared their incredible work. Y
 🤝 **Why Sharing Your Code Is a Win-Win?!**  
 
 - *Build Your Portfolio*: Open-sourcing your projects demonstrates your skills to potential opportunities.
-- *Gain Recognition*: You can showcase your work on your profile and use it as a reference.
-- *Foster Collaboration*: You can invite others to build upon your work, leading to improvements, and better solutions.
+- *Gain Recognition*: You can showcase your work and use it as a reference.
+- *Foster Collaboration*: You can invite others to build upon your work, leading to better solutions.
 
 If you know another valid repository, feel free to request or <a href="mailto:m.shafieeha@gmail.com">email</a>. Let's continue to grow this repository together! 🌱
 <br>
