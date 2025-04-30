@@ -21,8 +21,10 @@ We extend our gratitude to all students who have shared their incredible work. Y
 - *Build Your Portfolio*: Open-sourcing your projects demonstrates your skills to potential opportunities.
 - *Gain Recognition*: You can showcase your work and use it as a reference.
 - *Foster Collaboration*: You can invite others to build upon your work, leading to better solutions.
+<br>
+<br>
 
-If you know another valid repository, feel free to request or <a href="mailto:m.shafieeha@gmail.com">email</a>. Let's continue to grow this repository together! 🌱
+🌱 If you know another valid repository, feel free to request or <a href="mailto:m.shafieeha@gmail.com">email</a>. Let's continue to grow this repository together!
 <br>
 <br>
 
