@@ -239,6 +239,7 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
 ## Undergraduate Courses
 
 ### 1. AI - Dr. Fadaei & Dr. Yaghoobzadeh
+* [**Homeworks (2025, Spring)**](https://github.com/manih1384/UT-ECE-AI-Spring2025) by Mani Hosseini
 * [**Homeworks (2024, Spring)**](https://github.com/notarealone/UT_AI-Spring2024) by Alireza Hosseini
 * [**Homeworks (2024, Spring)**](https://github.com/mmd-nemati/Artificial-Intelligence-Course-Projects-S2024) by Mohammad Nemati
 * [**Homeworks (2024, Fall)**](https://github.com/MobinaMhr/Artificial-Intelligence-Course-F2024) by Mobina Mehrazar
@@ -294,6 +295,7 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
 * [**Smart Flower Pot Implementation(2023, Spring)**](https://github.com/Theparia/Arduino-Smart-Flower-Pot)
 
 ### 6. Computer Architecture
+* [**Homeworks (2025, Spring)**](https://github.com/manih1384/UT-ECE-ComputerArchitecture-Spring2025) by Mani Hosseini
 * [**MIPS Processor Implementation(2022)**](https://github.com/avamirm/Computer-Architecture-Course-Projects) by Ava Mir Mohammad Mahdi
 * [**Homeworks (2023, Spring)**](https://github.com/sina-tb/Computer-architecture) by Sina Tabassi
 * [**Homeworks (2023, Spring)**](https://github.com/AliHamzeh2002/Computer-Architecture) by Ali Hamzehpour
