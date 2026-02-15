@@ -385,7 +385,7 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
 * [**Final Project (2023, Spring)**](https://github.com/MisaghM/Software-Engineering1-Course-Projects) by Misagh Mohaghegh
 
 ### 20. Signal and System
-* [**Homeworks (2023, Spring)**](https://github.com/sina-tb/Signal-and-System) by Sina Tabassi
+* [**Homeworks (2025, Spring)**](https://github.com/Negar-shamaie/Digital-Amplitude-Coding-Decoding) by Negar Shamaie
 * [**Homeworks (2023, Spring)**](https://github.com/sina-tb/Signal-and-System) by Sina Tabassi
 
 ### 21. Advanced Control (Modern Control) - Dr. Kebriaei
