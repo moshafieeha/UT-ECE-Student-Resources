@@ -343,7 +343,8 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
 * [**Homeworks(2022, Spring)**](https://github.com/PashaBarahimi/Operating-System-Lab-Projects) by Saman Eslami & Pasha Barahimi & Misagh Mohaghegh
 * [**XV6 OS(2021, Spring)**](https://github.com/daneshvar-amrollahi/os-lab-xv6) by Daneshvar Amrollahi & Amin Setayesh & Alireza Tavakoli
 
-### 12. Advanced Progeramming
+### 12. Advanced Programming
+* [**Homeworks(2025, Spring)**](https://github.com/Negar-shamaie/Persian-Simple-Finance-Manager) by Negar Shamaie
 * [**Homeworks(2023, Spring)**](https://github.com/FabulousMatin/AP-Course) by Matin Bazrafshan
 * [**Homeworks(2022, Spring)**](https://github.com/Shahriar-0/Advanced-Programming-Course-Projects-S2022) by Shahriar Attar
 * [**Homeworks(2022, Spring)**](https://github.com/AliHamzeh2002/Advanced-Programming-Course) by Ali Hamzehpour
@@ -384,6 +385,7 @@ If you know another valid repository, feel free to request or <a href="mailto:m.
 * [**Final Project (2023, Spring)**](https://github.com/MisaghM/Software-Engineering1-Course-Projects) by Misagh Mohaghegh
 
 ### 20. Signal and System
+* [**Homeworks (2023, Spring)**](https://github.com/sina-tb/Signal-and-System) by Sina Tabassi
 * [**Homeworks (2023, Spring)**](https://github.com/sina-tb/Signal-and-System) by Sina Tabassi
 
 ### 21. Advanced Control (Modern Control) - Dr. Kebriaei
